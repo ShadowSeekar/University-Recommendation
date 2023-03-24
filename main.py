@@ -7,6 +7,9 @@ st.set_page_config(page_title="University Recommendation System")
 # Load the model
 with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
+    
+# Load the dataset
+data = pd.read_csv('data_uni.csv')
 
 # Define the form inputs
 cgpa = st.number_input("CGPA", min_value=0.0, max_value=10.0, step=0.1, format="%.1f")
