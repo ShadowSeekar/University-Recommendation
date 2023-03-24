@@ -19,4 +19,4 @@ if st.button("Submit"):
     prediction = model.predict([[cgpa, gre, toefl]])
     filtered_data = data[(data['CGPA'] <= cgpa) & (data['GRE Score'] <= gre) & (data['TOEFL Score'] <= toefl)]
     #print(f"Values less than {cgpa and gre and toefl}: \n{filtered_data}")
-    st.write(f"Recommended Universities: {cgpa and gre and toefl}: \n{filtered_data}")
+    st.write(filtered_data)
