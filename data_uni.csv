@@ -1,0 +1,1001 @@
+world_rank,institution,country,quality_of_education,quality_of_faculty,influence,patents,Average,rank_by_avg,GRE Score,TOEFL Score,CGPA
+1,Harvard University,USA,1,1,1,3,1.5,1,337,118,9.65
+2,Stanford University,USA,9,4,3,10,6.5,3,324,107,8.87
+3,Massachusetts Institute of Technology,USA,3,2,2,1,2,2,316,104,8
+4,University of Cambridge,United Kingdom,2,5,6,48,15.25,10,322,110,8.67
+5,University of Oxford,United Kingdom,7,10,12,15,11,7,314,103,8.21
+6,Columbia University,USA,13,9,13,4,9.75,5,330,115,9.34
+7,"University of California, Berkeley",USA,5,6,4,29,11,7,321,109,8.2
+8,University of Chicago,USA,11,8,16,141,44,25,308,101,7.9
+9,Princeton University,USA,4,3,25,225,64.25,37,302,102,8
+10,Cornell University,USA,12,14,15,11,13,9,323,108,8.6
+11,Yale University,USA,10,11,8,49,19.5,13,325,106,8.4
+12,California Institute of Technology,USA,6,7,9,13,8.75,4,327,111,9
+13,University of Tokyo,Japan,16,38,19,7,20,15,328,112,9.1
+14,University of Pennsylvania,USA,20,28,18,14,20,15,307,109,8
+15,"University of California, Los Angeles",USA,28,13,14,9,16,11,311,104,8.2
+16,Johns Hopkins University,USA,18,16,11,2,11.75,8,314,105,8.3
+17,Kyoto University,Japan,22,24,42,16,26,16,317,107,8.7
+18,New York University,USA,32,18,29,43,30.5,19,319,106,8
+19,"University of Michigan, Ann Arbor",USA,24,140,20,12,49,29,318,110,8.8
+20,Swiss Federal Institute of Technology in Zurich,Switzerland,17,17,27,57,29.5,18,303,102,8.5
+21,"University of California, San Diego",USA,36,19,5,17,19.25,12,312,107,7.9
+22,Northwestern University,USA,163,104,34,42,85.75,51,325,114,8.4
+23,Hebrew University of Jerusalem,Israel,15,15,97,35,40.5,23,328,116,9.5
+24,Seoul National University,South Korea,367,218,163,6,188.5,141,334,119,9.7
+25,University of Wisconsin–Madison,USA,29,34,24,27,28.5,17,336,119,9.8
+26,"University of California, San Francisco",USA,367,20,7,56,112.5,72,340,120,9.6
+27,University College London,United Kingdom,21,27,22,67,34.25,20,322,109,8.8
+28,Duke University,USA,74,56,23,33,46.5,26,298,98,7.5
+29,Rockefeller University,USA,49,12,28,289,94.5,56,295,93,7.2
+30,University of Texas at Austin,USA,75,25,50,38,47,27,310,99,7.3
+31,University of Washington - Seattle,USA,48,41,10,40,34.75,21,300,97,8.1
+32,University of Toronto,Canada,70,32,17,145,66,38,327,103,8.3
+33,University of Illinois at Urbana–Champaign,USA,33,21,48,65,41.75,24,338,118,9.4
+34,Keio University,Japan,284,218,246,80,207,162,340,114,9.6
+35,Imperial College London,United Kingdom,90,30,26,47,48.25,28,331,112,9.8
+36,École Polytechnique,France,98,216,314,172,200,154,320,110,9.2
+37,École normale supérieure - Paris,France,8,54,157,871,272.5,255,299,106,8.4
+38,Waseda University,Japan,288,218,389,248,285.75,280,300,105,7.8
+39,Weizmann Institute of Science,Israel,19,22,63,45,37.25,22,304,105,7.5
+40,University of North Carolina at Chapel Hill,USA,124,86,32,41,70.75,42,307,108,7.7
+41,University of Virginia,USA,209,126,74,97,126.5,81,308,110,8
+42,McGill University,Canada,34,75,53,132,73.5,45,316,105,8.2
+43,"Purdue University, West Lafayette",USA,55,47,95,28,56.25,33,313,107,8.5
+44,Dartmouth College,USA,40,218,167,63,122,79,332,117,9.1
+45,Osaka University,Japan,46,75,58,18,49.25,30,326,113,9.4
+46,University of Pittsburgh - Pittsburgh Campus,USA,79,218,57,50,101,62,322,110,9.1
+47,"Pennsylvania State University, University Park",USA,230,62,43,92,106.75,67,329,114,9.3
+48,"University of Minnesota, Twin Cities",USA,63,63,40,59,56.25,33,339,119,9.7
+49,"Ohio State University, Columbus",USA,96,82,52,44,68.5,39,321,110,8.85
+50,Rutgers University-New Brunswick,USA,91,37,66,61,63.75,36,327,111,8.4
+51,University of Southern California,USA,152,39,64,34,72.25,43,313,98,8.3
+52,Washington University in St. Louis,USA,101,71,21,169,90.5,53,312,100,7.9
+53,"University of California, Davis",USA,54,59,33,62,52,31,334,116,8
+54,University of Colorado Boulder,USA,80,31,38,133,70.5,40,324,112,8.1
+55,University of Edinburgh,United Kingdom,44,33,37,228,85.5,50,322,110,8
+56,Peking University,China,182,218,131,20,137.75,93,320,103,7.7
+57,National Taiwan University,Taiwan,92,218,223,695,307,319,316,102,7.4
+58,University of Paris-Sud,France,26,26,86,324,115.5,74,298,99,7.6
+59,Lomonosov Moscow State University,Russia,14,48,254,861,294.25,289,300,99,6.8
+60,University of Florida,USA,214,96,73,5,97,59,311,104,8.3
+61,Carnegie Mellon University,USA,25,23,225,165,109.5,69,309,100,8.1
+62,University of British Columbia,Canada,81,93,36,81,72.75,44,307,101,8.2
+63,Pierre-and-Marie-Curie University,France,30,88,35,87,60,34,304,105,8.2
+64,"University of California, Santa Barbara",USA,133,29,59,77,74.5,47,315,107,8.5
+65,National University of Singapore,Singapore,367,218,125,25,183.75,133,325,111,8.7
+66,Boston University,USA,303,83,45,135,141.5,95,325,112,8.92
+67,University of Manchester,United Kingdom,99,72,70,142,95.75,58,327,114,9.02
+68,University of Arizona,USA,139,87,39,235,125,80,316,107,8.64
+69,Vanderbilt University,USA,87,110,62,51,77.5,49,318,109,9.22
+70,University of Utah,USA,97,67,65,19,62,35,328,115,9.16
+71,Karolinska Institute,Sweden,149,36,54,743,245.5,220,332,118,9.64
+72,"University of Maryland, College Park",USA,68,43,47,280,109.5,69,336,112,9.76
+73,Tohoku University,Japan,41,218,127,22,102,63,321,111,9.45
+74,University of Copenhagen,Denmark,117,64,31,432,161,109,314,108,9.04
+75,University of Texas Southwestern Medical Center,USA,59,35,30,173,74.25,46,314,106,8.9
+76,Ruprecht Karl University of Heidelberg,Germany,38,51,61,243,98.25,60,329,114,8.56
+77,University of Notre Dame,USA,221,155,242,352,242.5,212,327,112,8.72
+78,Tsinghua University,China,309,218,158,30,178.75,126,301,99,8.22
+79,Ludwig Maximilian University of Munich,Germany,42,92,55,167,89,52,296,95,7.54
+80,Georgia Institute of Technology,USA,135,218,152,36,135.25,90,294,93,7.36
+81,University of Rochester,USA,72,113,118,64,91.75,54,312,105,8.02
+82,Katholieke Universiteit Leuven,Belgium,367,218,92,74,187.75,137,340,120,9.5
+83,Brown University,USA,64,73,67,200,101,62,320,110,9.22
+84,Emory University,USA,367,116,60,55,149.5,102,322,115,9.36
+85,Erasmus University Rotterdam,Netherlands,367,189,147,227,232.5,195,340,115,9.45
+86,Tel Aviv University,Israel,77,50,117,39,70.75,42,319,103,8.66
+87,Utrecht University,Netherlands,84,115,44,429,168,120,315,106,8.42
+88,University of Sydney,Australia,105,166,103,75,112.25,71,317,107,8.28
+89,"University of California, Irvine",USA,227,44,51,162,121,77,314,108,8.14
+90,University of Texas MD Anderson Cancer Center,USA,367,80,72,71,147.5,101,316,109,8.76
+91,Swiss Federal Institute of Technology in Lausanne,Switzerland,367,116,114,58,163.75,113,318,106,7.92
+92,University of Geneva,Switzerland,35,42,77,321,118.75,75,299,97,7.66
+93,University of Melbourne,Australia,141,218,68,223,162.5,110,298,98,8.03
+94,King's College London,United Kingdom,27,114,116,188,111.25,70,301,97,7.88
+95,Tufts University,USA,60,182,160,84,121.5,78,303,99,7.66
+96,University of Zurich,Switzerland,115,85,46,137,95.75,58,304,100,7.84
+97,Arizona State University,USA,367,66,85,21,134.75,89,306,100,8
+98,Yonsei University,South Korea,367,218,326,23,233.5,198,331,120,8.96
+99,University of Oslo,Norway,53,40,134,302,132.25,87,332,119,9.24
+100,Kyushu University,Japan,367,218,182,37,201,155,323,113,8.88
+101,Technical University of Munich,Germany,37,177,90,119,105.75,65,322,107,8.46
+102,"Texas A&M University, College Station",USA,339,46,98,201,171,122,312,105,8.12
+103,University of Queensland,Australia,269,142,78,68,139.25,94,314,106,8.25
+104,Mines ParisTech,France,278,169,834,871,538,868,317,104,8.47
+105,Case Western Reserve University,USA,50,195,106,111,115.5,74,326,112,9.05
+106,Indiana University - Bloomington,USA,134,178,143,178,158.25,106,316,110,8.78
+107,University of Alberta,Canada,169,153,109,116,136.75,92,329,111,9.18
+108,Leiden University,Netherlands,120,102,94,260,144,98,338,117,9.46
+109,Tokyo Institute of Technology,Japan,170,128,169,52,129.75,84,331,116,9.38
+110,University of Groningen,Netherlands,313,196,96,316,230.25,193,304,103,8.64
+111,University of Helsinki,Finland,56,111,79,420,166.5,117,305,108,8.48
+112,Sapienza University of Rome,Italy,67,45,166,312,147.5,101,321,109,8.68
+113,Georgetown University,USA,159,218,321,122,205,159,301,107,8.34
+114,University of Amsterdam,Netherlands,109,212,88,282,172.75,125,320,110,8.56
+115,Korea University,South Korea,367,218,411,26,255.5,235,311,105,8.45
+116,University of Barcelona,Spain,367,218,108,215,227,186,310,106,9.04
+117,Lund University,Sweden,136,169,135,871,327.75,360,299,102,8.62
+118,Michigan State University,USA,112,218,123,136,147.25,99,290,104,7.46
+119,Ghent University,Belgium,123,147,149,90,127.25,83,296,99,7.28
+120,Rice University,USA,52,95,150,76,93.25,55,327,104,8.84
+121,Baylor College of Medicine,USA,367,218,41,199,206.25,161,335,117,9.56
+122,Aarhus University,Denmark,310,106,81,154,162.75,111,334,119,9.48
+123,University of Bristol,United Kingdom,194,74,69,335,168,120,310,106,8.36
+124,Uppsala University,Sweden,73,70,75,871,272.25,254,308,108,8.22
+125,Nagoya University,Japan,39,53,140,78,77.5,49,301,106,8.47
+126,Royal Institute of Technology,Sweden,199,105,300,797,350.25,399,300,100,8.66
+127,University of Colorado Denver,USA,367,140,110,72,172.25,124,323,113,9.32
+128,University of Glasgow,United Kingdom,234,218,144,402,249.5,223,319,112,8.71
+129,VU University Amsterdam,Netherlands,367,218,120,871,394,487,326,112,9.1
+130,University of New South Wales,Australia,177,218,177,157,182.25,129,333,118,9.35
+131,Paris Diderot University - Paris 7,France,127,68,56,483,183.5,132,339,114,9.76
+132,University of São Paulo,Brazil,297,218,186,710,352.75,407,303,105,8.65
+133,Western University (The University of Western Ontario),Canada,367,218,208,261,263.5,245,309,105,8.56
+134,Radboud University Nijmegen,Netherlands,128,218,119,410,218.75,174,323,112,8.78
+135,Nanyang Technological University,Singapore,367,218,361,32,244.5,217,333,113,9.28
+136,Technion – Israel Institute of Technology,Israel,45,55,221,88,102.25,64,314,109,8.77
+137,University of Miami,USA,367,218,130,73,197,149,312,103,8.45
+138,Stony Brook University,USA,186,58,84,96,106,66,316,100,8.16
+139,University of Texas at Dallas,USA,367,218,151,313,262.25,242,326,116,9.08
+140,University of Nottingham,United Kingdom,131,84,176,138,132.25,87,318,109,9.12
+141,University of Iowa,USA,233,167,83,121,151,104,329,110,9.15
+142,Southern Methodist University,USA,179,218,655,824,469,704,332,118,9.36
+143,Icahn School of Medicine at Mount Sinai,USA,367,218,71,101,189.25,142,331,115,9.44
+144,Korea Advanced Institute of Science and Technology (KAIST),South Korea,367,218,283,8,219,175,340,120,9.92
+145,Monash University,Australia,277,218,136,99,182.5,130,325,112,8.96
+146,University of Alabama at Birmingham,USA,367,218,124,130,209.75,166,320,113,8.64
+147,Free University of Berlin,Germany,76,128,80,461,186.25,136,315,105,8.48
+148,University of Southampton,United Kingdom,329,218,133,334,253.5,229,326,114,9.11
+149,University of the Witwatersrand,South Africa,61,172,237,291,190.25,143,339,116,9.8
+150,McMaster University,Canada,222,163,156,222,190.75,145,311,106,8.26
+151,University of Montreal,Canada,320,218,111,540,297.25,294,334,114,9.43
+152,University of Birmingham,United Kingdom,65,205,165,170,151.25,105,332,116,9.28
+153,Humboldt University of Berlin,Germany,291,108,82,471,238,201,321,112,9.06
+154,"University of California, Santa Cruz",USA,175,100,49,183,126.75,82,324,105,8.75
+155,Albert Ludwig University of Freiburg,Germany,148,193,104,98,135.75,91,326,108,8.89
+156,University of Tübingen,Germany,69,103,122,226,130,85,312,109,8.69
+157,University of Cincinnati,USA,188,218,171,263,210,167,315,105,8.34
+158,University of Bonn,Germany,58,65,107,341,142.75,96,309,104,8.26
+159,Wake Forest University,USA,265,218,244,124,212.75,168,306,106,8.14
+160,University of Basel,Switzerland,83,60,100,486,182.25,129,297,100,7.9
+161,University of Leeds,United Kingdom,62,218,141,265,171.5,123,315,103,7.86
+162,University of Hamburg,Germany,314,135,126,677,313,336,298,99,7.46
+163,Université libre de Bruxelles,Belgium,173,69,214,148,151,104,318,109,8.5
+164,Indiana University-Purdue University Indianapolis,USA,367,218,190,79,213.5,169,317,105,8.56
+165,Pohang University of Science and Technology,South Korea,367,218,355,24,241,209,329,111,9.01
+166,Oregon Health & Science University,USA,367,128,115,144,188.5,141,322,110,8.97
+167,University of Calgary,Canada,367,218,180,778,385.75,470,302,102,8.33
+168,Stockholm University,Sweden,129,187,89,839,311,330,313,102,8.27
+169,University of Padua,Italy,281,218,105,351,238.75,202,293,97,7.8
+170,University of Hong Kong,Hong Kong,287,218,204,205,228.5,190,311,99,7.98
+171,Yeshiva University,USA,200,218,91,128,159.25,107,312,101,8.04
+172,University of Milan,Italy,162,182,189,438,242.75,214,334,117,9.07
+173,University of Sheffield,United Kingdom,142,196,137,179,163.5,112,322,110,9.13
+174,Technical University of Denmark,Denmark,351,202,230,46,207.25,163,323,113,9.23
+175,"University of Maryland, Baltimore",USA,367,218,112,180,219.25,177,321,111,8.97
+176,Goethe University Frankfurt,Germany,111,89,155,328,170.75,121,320,111,8.87
+177,University of Göttingen,Germany,43,176,146,299,166,114,329,119,9.16
+178,Hokkaido University,Japan,279,135,173,53,160,108,319,110,9.04
+179,Australian National University,Australia,196,52,99,415,190.5,144,309,108,8.12
+180,Shanghai Jiao Tong University,China,335,218,267,198,254.5,231,307,102,8.27
+181,University of New Mexico,USA,367,218,170,100,213.75,170,300,104,8.16
+182,University of Strasbourg,France,71,49,145,269,133.5,88,305,107,8.42
+183,University of Massachusetts Medical School,USA,367,80,76,143,166.5,117,299,100,7.88
+184,University of Houston,USA,367,218,257,156,249.5,223,314,110,8.8
+185,"Trinity College, Dublin",Ireland,338,200,233,153,231,194,316,106,8.32
+186,University of Lausanne,Switzerland,102,218,101,683,276,263,327,113,9.11
+187,Iowa State University,USA,286,109,178,339,228,189,317,107,8.68
+188,Joseph Fourier University,France,195,218,93,160,166.5,117,335,118,9.44
+189,Wayne State University,USA,367,218,258,117,240,206,331,115,9.36
+190,University of South Florida - Tampa,USA,367,218,251,70,226.5,184,324,112,9.08
+191,Zhejiang University,China,367,218,290,106,245.25,219,324,111,9.16
+192,Hanyang University,South Korea,367,218,471,31,271.75,252,323,110,8.98
+193,University of Ottawa,Canada,223,218,194,496,282.75,275,322,114,8.94
+194,University of Missouri–Columbia,USA,250,98,226,150,181,127,336,118,9.53
+195,Fudan University,China,367,218,252,123,240,206,316,109,8.76
+196,University of Kansas,USA,228,218,161,127,183.5,132,307,107,8.52
+197,University of Cologne,Germany,367,201,138,421,281.75,271,306,105,8.26
+198,University of Georgia,USA,93,172,132,82,119.75,76,310,106,8.33
+199,University of Liverpool,United Kingdom,176,207,172,377,233,197,311,104,8.43
+200,University of Bern,Switzerland,184,213,128,433,239.5,204,313,107,8.69
+201,Cardiff University,United Kingdom,321,143,153,193,202.5,156,317,103,8.54
+202,George Washington University,USA,192,218,227,326,240.75,208,315,110,8.46
+203,University of Illinois at Chicago,USA,367,218,196,129,227.5,187,340,120,9.91
+204,University of Erlangen-Nuremberg,Germany,231,218,202,361,253,227,334,120,9.87
+205,University of Münster,Germany,113,174,192,192,167.75,118,298,105,8.54
+206,Aix-Marseille University,France,218,218,87,230,188.25,138,295,99,7.65
+207,Claude Bernard University Lyon 1,France,367,218,121,151,214.25,171,315,99,7.89
+208,University of Bologna,Italy,350,218,281,354,300.75,301,310,102,8.02
+209,Queen Mary University of London,United Kingdom,147,218,175,255,198.75,152,305,106,8.16
+210,Dresden University of Technology,Germany,367,218,212,102,224.75,183,301,104,8.12
+211,Sungkyunkwan University,South Korea,367,218,317,69,242.75,214,325,108,9.06
+212,Newcastle University,United Kingdom,367,218,159,365,277.25,265,328,110,9.14
+213,Karlsruhe Institute of Technology,Germany,356,131,280,103,217.5,173,338,120,9.66
+214,"University of California, Riverside",USA,247,218,113,194,193,146,333,119,9.78
+215,University of Kiel,Germany,193,198,183,310,221,179,331,117,9.42
+216,University of Western Australia,Australia,156,145,181,399,220.25,178,330,116,9.36
+217,Paris Descartes University,France,203,218,142,455,254.5,231,322,112,9.26
+218,University of Connecticut,USA,296,218,193,186,223.25,181,321,109,9.13
+219,University of Massachusetts Amherst,USA,212,159,191,356,229.5,191,324,110,8.97
+220,Chinese University of Hong Kong,Hong Kong,100,116,356,168,185,135,312,104,8.42
+221,University of Turin,Italy,315,163,278,613,342.25,387,313,103,8.75
+222,University of Manitoba,Canada,157,155,308,175,198.75,152,316,110,8.56
+223,University of Vienna,Austria,191,101,154,671,279.25,267,324,113,8.79
+224,University of Montpellier,France,289,169,129,511,274.5,259,308,109,8.45
+225,Maastricht University,Netherlands,367,218,354,281,305,314,305,105,8.23
+226,National Cheng Kung University,Taiwan,367,218,485,436,376.5,444,296,99,8.03
+227,"University of Tennessee, Knoxville",USA,319,218,187,449,293.25,287,306,110,8.45
+228,Complutense University of Madrid,Spain,86,214,309,256,216.25,172,312,110,8.53
+229,Laval University,Canada,292,218,270,140,230,192,318,112,8.67
+230,RWTH Aachen University,Germany,357,131,359,158,251.25,224,324,111,9.01
+231,Université catholique de Louvain,Belgium,367,97,325,236,256.25,237,313,104,8.65
+232,North Carolina State University,USA,251,218,206,161,209,164,319,106,8.33
+233,Johannes Gutenberg University of Mainz,Germany,367,194,185,523,317.25,342,312,107,8.27
+234,University of Texas Health Science Center at San Antonio,USA,367,218,229,315,282.25,273,304,100,8.07
+235,Julius-Maximilian's University of Würzburg,Germany,106,168,179,369,205.5,160,330,113,9.31
+236,Paul Sabatier University - Toulouse III,France,367,218,102,514,300.25,300,326,111,9.23
+237,University of Gothenburg,Sweden,257,116,197,871,360.25,417,325,112,9.17
+238,University College Dublin,Ireland,241,218,285,278,255.5,235,329,114,9.19
+239,University of Science and Technology of China,China,367,218,269,452,326.5,356,310,104,8.37
+240,University of Leicester,United Kingdom,367,218,139,385,277.25,265,299,100,7.89
+241,Autonomous University of Barcelona,Spain,367,218,220,277,270.5,251,296,101,7.68
+242,University of Dundee,United Kingdom,178,218,200,216,203,157,317,103,8.15
+243,Norwegian University of Science and Technology,Norway,252,75,366,327,255,232,324,115,8.76
+244,Nanjing University,China,342,218,358,164,270.5,251,325,114,9.04
+245,Okayama University,Japan,367,218,335,60,245,218,314,107,8.56
+246,London School of Hygiene & Tropical Medicine,United Kingdom,367,159,294,736,389,478,328,110,9.02
+247,University of Florence,Italy,327,94,275,564,315,338,316,105,8.73
+248,University of Cape Town,South Africa,104,146,236,268,188.5,141,311,104,8.48
+249,University of Texas Health Science Center at Houston,USA,367,155,162,337,255.25,233,324,110,8.87
+250,Moscow Institute of Physics and Technology,Russia,23,218,605,839,421.25,559,321,111,8.83
+251,University of Düsseldorf,Germany,185,218,209,454,266.5,246,320,104,8.57
+252,Florida State University,USA,367,218,184,411,295,291,316,99,9
+253,University of Sussex,United Kingdom,151,57,250,553,252.75,226,318,100,8.54
+254,Thomas Jefferson University,USA,158,218,334,502,303,307,335,115,9.68
+255,Delft University of Technology,Netherlands,307,218,224,146,223.75,182,321,114,9.12
+256,Virginia Polytechnic Institute and State University,USA,283,218,264,181,236.5,200,307,110,8.37
+257,University of Lisbon,Portugal,337,152,296,495,320,346,309,99,8.56
+258,Drexel University,USA,367,218,338,91,253.5,229,324,100,8.64
+259,Virginia Commonwealth University,USA,367,150,253,206,244,216,326,102,8.76
+260,Oregon State University,USA,189,218,148,389,236,199,331,119,9.34
+261,Durham University,United Kingdom,132,116,199,460,226.75,185,327,108,9.13
+262,University of Tsukuba,Japan,202,107,255,213,194.25,147,312,104,8.09
+263,University of Reading,United Kingdom,258,218,347,666,372.25,438,308,103,8.36
+264,Lehigh University,USA,367,218,542,534,415.25,541,324,111,8.79
+265,Medical University of Vienna,Austria,367,218,228,366,294.75,290,325,110,8.76
+266,University of Auckland,New Zealand,235,218,260,125,209.5,165,313,102,8.68
+267,University of Kentucky,USA,332,218,216,447,303.25,308,312,105,8.45
+268,University of Naples Federico II,Italy,331,218,324,792,416.25,546,314,107,8.17
+269,University of Waterloo,Canada,367,218,333,626,386,472,327,113,9.14
+270,Charles University in Prague,Czech Republic,238,116,238,636,307,319,308,108,8.34
+271,Colorado State University - Fort Collins,USA,211,148,203,257,204.75,158,306,105,8.22
+272,Tulane University,USA,324,218,299,258,274.75,260,299,96,7.86
+273,"University at Buffalo, The State University of New York",USA,367,218,298,237,280,270,294,95,7.64
+274,Brandeis University,USA,51,78,195,249,143.25,97,312,99,8.01
+275,Northeastern University,USA,316,218,312,86,233,197,315,100,7.95
+276,Wageningen University and Research Centre,Netherlands,293,175,168,477,278.25,266,322,110,8.96
+277,Sun Yat-sen University,China,367,218,393,221,299.75,298,329,113,9.45
+278,University of Ulm,Germany,367,131,231,594,330.75,364,320,101,8.62
+279,London School of Economics,United Kingdom,78,91,739,871,444.75,621,308,103,8.49
+280,Vrije Universiteit Brussel,Belgium,110,218,301,506,283.75,277,304,102,8.73
+281,University of Delaware,USA,318,135,304,120,219.25,177,311,102,8.64
+282,Rensselaer Polytechnic Institute,USA,137,218,346,210,227.75,188,317,110,9.11
+283,University of Bergen,Norway,367,218,201,871,414.25,538,312,106,8.79
+284,Queen's University,Canada,322,218,274,275,272.25,254,321,111,8.9
+285,University of Aberdeen,United Kingdom,360,199,207,422,297,293,340,112,9.66
+286,Dalhousie University,Canada,367,218,247,384,304,311,331,116,9.26
+287,Umeå University,Sweden,367,218,198,871,413.5,534,336,118,9.19
+288,University of Duisburg-Essen,Germany,367,218,282,348,303.75,310,324,114,9.08
+289,City College of New York,USA,31,218,422,358,257.25,238,314,104,9.02
+290,Hiroshima University,Japan,367,218,287,112,246,221,313,109,9
+291,University of Texas at San Antonio,USA,367,218,376,254,303.75,310,307,105,7.65
+292,Hannover Medical School,Germany,367,218,245,308,284.5,278,300,102,7.87
+293,University of Warwick,United Kingdom,210,116,239,234,199.75,153,302,99,7.97
+294,University of Valencia,Spain,367,218,348,548,370.25,433,312,98,8.18
+295,University of Pisa,Italy,273,218,360,528,344.75,389,316,101,8.32
+296,Ruhr University Bochum,Germany,367,218,235,797,404.25,511,317,100,8.57
+297,Medical College of Wisconsin,USA,367,218,284,659,382,460,310,107,8.67
+298,University of Louisville,USA,367,218,405,105,273.75,256,320,120,9.11
+299,University of Bordeaux,France,354,218,265,297,283.5,276,330,114,9.24
+300,University of South Carolina - Columbia,USA,367,185,367,649,392,481,305,112,8.65
+301,National and Kapodistrian University of Athens,Greece,367,218,416,871,468,701,309,106,8
+302,Leipzig University,Germany,326,208,266,364,291,284,319,108,8.76
+303,Medical University of South Carolina,USA,367,218,364,508,364.25,426,322,105,8.45
+304,Autonomous University of Madrid,Spain,367,218,256,443,321,349,323,107,8.55
+305,Dalian University of Technology,China,367,218,667,131,345.75,391,313,106,8.43
+306,Stellenbosch University,South Africa,367,218,503,219,326.75,358,321,109,8.8
+307,Kyungpook National University,South Korea,367,218,625,66,319,344,323,110,9.1
+308,University of Porto,Portugal,94,90,380,405,242.25,211,325,112,9
+309,University of St Andrews,United Kingdom,145,218,188,189,185,135,312,108,8.53
+310,Gwangju Institute of Science and Technology,South Korea,367,218,538,54,294.25,289,308,110,8.6
+311,Chulalongkorn University,Thailand,367,218,734,871,547.5,890,320,104,8.74
+312,University of Antwerp,Belgium,367,218,307,372,316,339,328,108,9.18
+313,Xiamen University,China,367,218,493,467,386.25,473,311,107,9
+314,University of Nebraska–Lincoln,USA,165,218,262,456,275.25,262,301,100,8.04
+315,Nankai University,China,334,218,454,419,356.25,410,305,105,8.13
+316,University of Stuttgart,Germany,82,218,369,376,261.25,241,308,104,8.07
+317,University of Rome Tor Vergata,Italy,367,218,272,816,418.25,550,298,101,7.86
+318,University of Regensburg,Germany,367,218,241,522,337,372,300,99,8.01
+319,Hong Kong University of Science and Technology,Hong Kong,367,218,466,185,309,324,324,111,8.8
+320,Kobe University,Japan,95,116,271,301,195.75,148,327,113,8.69
+321,University of Liège,Belgium,143,144,218,285,197.5,150,317,106,8.5
+322,Federal University of Rio de Janeiro,Brazil,125,218,330,295,242,210,323,104,8.44
+323,Rush University,USA,367,218,404,871,465,691,314,107,8.27
+324,University of Vermont,USA,198,218,288,397,275.25,262,305,102,8.18
+325,University of York,United Kingdom,367,218,205,406,299,296,315,104,8.33
+326,Boston College,USA,367,218,363,386,333.5,366,326,116,9.14
+327,University of Pavia,Italy,295,214,381,680,392.5,482,299,100,8.02
+328,University of Jena,Germany,367,218,263,457,326.25,354,295,101,7.86
+329,Vita-Salute San Raffaele University,Italy,367,218,279,871,433.75,582,324,112,8.77
+330,University of Genoa,Italy,367,218,402,537,381,455,297,96,7.89
+331,Tianjin University,China,367,218,934,245,441,607,327,113,8.66
+332,Louisiana State University - Baton Rouge,USA,270,218,215,458,290.25,283,311,105,8.12
+333,University of Exeter,United Kingdom,264,218,174,353,252.25,225,308,106,8.21
+334,National Autonomous University of Mexico,Mexico,282,218,219,486,301.25,304,319,108,8.54
+335,University of Adelaide,Australia,219,218,243,465,286.25,281,312,107,8.65
+336,University of East Anglia,United Kingdom,206,179,211,500,274,258,325,111,9.11
+337,York University,Canada,367,218,408,871,466,695,319,110,8.79
+338,University of Navarra,Spain,367,218,722,645,488,756,332,118,9.47
+339,University of Oregon,USA,346,218,217,729,377.5,447,323,108,8.74
+340,"St George's, University of London",United Kingdom,367,218,476,648,427.25,570,324,107,8.66
+341,Indian Institute of Technology Delhi,India,367,218,943,625,538.25,870,312,107,8.46
+342,University of Trieste,Italy,367,218,286,616,371.75,437,326,110,8.76
+343,Queen's University Belfast,United Kingdom,183,218,276,377,263.5,245,308,106,8.24
+344,University of Perugia,Italy,367,116,332,642,364.25,426,305,103,8.13
+345,Technical University of Berlin,Germany,85,218,412,177,223,180,295,96,7.34
+346,University of Marburg,Germany,304,217,249,271,260.25,240,316,98,7.43
+347,University of Innsbruck,Austria,197,112,222,442,243.25,215,304,97,7.64
+348,Eindhoven University of Technology,Netherlands,367,186,549,279,345.25,390,299,94,7.34
+349,Ben-Gurion University of the Negev,Israel,367,218,379,118,270.5,251,302,99,7.25
+350,University of Oklahoma - Norman Campus,USA,367,218,240,474,324.75,351,313,101,8.04
+351,Wesleyan University,USA,154,218,506,871,437.25,596,318,107,8.27
+352,University of Victoria,Canada,367,218,328,853,441.5,608,325,110,8.67
+353,Kansas State University,USA,130,218,320,294,240.5,207,303,100,8.06
+354,Hong Kong Polytechnic University,Hong Kong,367,218,764,329,419.5,555,300,102,8.17
+355,Linköping University,Sweden,367,218,401,871,464.25,688,297,98,7.67
+356,University of Southern Denmark,Denmark,367,218,327,320,308,321,317,106,8.12
+357,University of Otago,New Zealand,367,218,353,542,370,432,327,109,8.77
+358,Justus Liebig University Giessen,Germany,367,218,357,309,312.75,335,301,104,7.89
+359,University of New Hampshire,USA,367,79,273,596,328.75,363,314,105,7.64
+360,College of William and Mary,USA,367,218,459,809,463.25,682,321,107,8.44
+361,San Diego State University,USA,248,218,302,509,319.25,345,322,110,8.64
+362,Simon Fraser University,Canada,367,218,303,381,317.25,342,334,116,9.54
+363,University of Santiago de Compostela,Spain,367,218,600,126,327.75,360,338,115,9.23
+364,Saint Louis University,USA,367,202,293,286,287,282,306,103,8.36
+365,Colorado School of Mines,USA,367,218,601,690,469,704,313,102,8.9
+366,University of Eastern Finland,Finland,367,218,388,861,458.5,669,330,114,9.17
+367,University of Buenos Aires,Argentina,126,180,350,871,381.75,457,320,104,8.34
+368,University of Guelph,Canada,367,218,277,445,326.75,358,311,98,7.46
+369,University of Ferrara,Italy,367,218,392,656,408.25,523,298,92,7.88
+370,Polytechnic University of Catalonia,Spain,367,218,576,85,311.5,333,301,98,8.03
+371,Versailles Saint-Quentin-en-Yvelines University,France,367,218,232,839,414,537,310,103,8.24
+372,Saarland University,Germany,367,218,434,367,346.5,393,324,110,9.22
+373,City University of Hong Kong,Hong Kong,367,218,874,387,461.5,678,336,119,9.62
+374,Darmstadt University of Technology,Germany,66,218,457,330,267.75,247,321,109,8.54
+375,Pompeu Fabra University,Spain,367,218,164,604,338.25,374,315,105,7.65
+376,Pontifical Catholic University of Chile,Chile,343,218,310,396,316.75,340,304,101,7.66
+377,University of Bari Aldo Moro,Italy,367,218,322,527,358.5,413,297,96,7.43
+378,University of Texas Medical Branch at Galveston,USA,367,218,311,333,307.25,320,290,100,7.56
+379,University of Delhi,India,240,218,763,797,504.5,794,303,98,7.65
+380,"Washington State University, Pullman",USA,367,131,234,298,257.5,239,311,99,8.43
+381,Temple University,USA,272,218,349,211,262.5,243,322,104,8.84
+382,University of Milan - Bicocca,Italy,367,218,305,468,339.5,381,319,105,8.67
+383,University of Turku,Finland,367,218,319,568,368,429,324,110,9.15
+384,Chonnam National University,South Korea,367,218,589,109,320.75,348,300,100,8.26
+385,University of Lorraine,France,216,190,342,208,239,203,340,113,9.74
+386,National Chiao Tung University,Taiwan,367,218,651,871,526.75,841,335,117,9.82
+387,Catholic University of the Sacred Heart,Italy,367,218,482,770,459.25,670,302,101,7.96
+388,"University at Albany, SUNY",USA,180,165,374,531,312.5,334,307,105,8.1
+389,Xi'an Jiaotong University,China,367,218,583,174,335.5,370,296,97,7.8
+390,Ewha Womans University,South Korea,367,218,509,107,300.25,300,320,108,8.44
+391,Jilin University,China,220,218,452,551,360.25,417,314,102,8.24
+392,Tokyo Medical and Dental University,Japan,367,218,352,272,302.25,305,318,106,8.65
+393,Scuola Normale Superiore di Pisa,Italy,263,61,526,871,430.25,575,326,112,9.12
+394,University of Central Florida,USA,367,218,386,159,282.5,274,317,104,8.76
+395,Innsbruck Medical University,Austria,367,218,413,678,419,552,329,111,9.23
+396,Beijing Normal University,China,57,218,492,755,380.5,454,324,110,9.04
+397,Polytechnic University of Milan,Italy,103,191,510,292,274,258,325,107,9.11
+398,University of Seville,Spain,367,218,516,104,301.25,304,330,116,9.45
+399,University of Nebraska Medical Center,USA,367,218,399,253,309.25,326,312,103,8.78
+400,Huazhong University of Science and Technology,China,367,218,626,242,363.25,423,333,117,9.66
+401,Kyung Hee University,South Korea,245,218,584,95,285.5,279,287,103,8.95
+402,Chalmers University of Technology,Sweden,361,218,426,871,469,704,274,92,8.17
+403,Brigham Young University,USA,298,218,424,134,268.5,248,266,89,7.3
+404,University of Campinas,Brazil,367,218,575,197,339.25,379,272,95,7.97
+405,University of Bath,United Kingdom,367,218,378,478,360.25,417,264,88,7.51
+406,Saint Petersburg State University,Russia,47,218,574,816,413.75,535,280,100,8.64
+407,National Tsing Hua University,Taiwan,262,218,425,731,409,524,271,94,7.5
+408,University of Twente,Netherlands,367,218,511,288,346,392,258,86,7.2
+409,University of Alabama - Tuscaloosa,USA,325,218,490,314,336.75,371,252,87,7.3
+410,Harbin Institute of Technology,China,367,218,847,375,451.75,639,273,93,7.9
+411,University of Verona,Italy,367,218,464,736,446.25,626,275,91,7.7
+412,Oklahoma State University–Stillwater,USA,239,218,648,303,352,406,277,96,8.3
+413,Shandong University,China,367,218,604,538,431.75,576,278,97,8.4
+414,George Mason University,USA,367,98,371,526,340.5,385,257,94,7.3
+415,Wuhan University,China,367,218,612,576,443.25,613,261,89,7.5
+416,Swedish University of Agricultural Sciences,Sweden,146,218,268,871,375.75,443,264,90,7.6
+417,Concordia University,Canada,367,218,745,718,512,812,267,92,8
+418,Chiba University,Japan,367,218,343,267,298.75,295,269,91,7.3
+419,Kumamoto University,Japan,308,218,441,152,279.75,269,268,95,8.1
+420,Tongji University,China,153,218,480,373,306,317,253,87,7.8
+421,Aalto University,Finland,367,218,403,246,308.5,322,262,92,7.2
+422,Chonbuk National University,South Korea,367,218,774,83,360.5,419,275,99,7.7
+423,Peking Union Medical College,China,367,218,297,797,419.75,556,278,101,8.8
+424,Georgia Regents University,USA,367,218,418,481,371,435,284,104,9
+425,University of Chile,Chile,242,218,351,489,325,352,286,104,9.1
+426,Lancaster University,United Kingdom,367,218,398,673,414,537,290,105,8.9
+427,Vienna University of Technology,Austria,363,218,377,171,282.25,273,272,94,8.1
+428,University of Denver,USA,312,218,522,760,453,644,248,83,6.8
+429,University of Arkansas for Medical Sciences,USA,367,218,565,340,372.5,439,245,78,6.5
+430,Grenoble Institute of Technology,France,144,188,520,345,299.25,297,260,84,6.6
+431,University of Granada,Spain,367,218,449,190,306,317,250,82,7.4
+432,University of Modena and Reggio Emilia,Italy,367,218,474,709,442,610,277,88,7.6
+433,Ajou University,South Korea,367,218,729,89,350.75,402,288,103,8.7
+434,Gyeongsang National University,South Korea,367,218,673,93,337.75,373,290,99,8.9
+435,Technical University of Madrid,Spain,215,218,697,110,310,328,281,97,9.1
+436,University College Cork,Ireland,367,218,431,195,302.75,306,270,95,8.5
+437,Loyola University Chicago,USA,367,218,438,713,434,585,249,91,7.7
+438,Central South University,China,367,218,783,444,453,644,250,90,7.1
+439,South China University of Technology,China,367,218,620,196,350.25,399,254,90,6.8
+440,Polytechnic University of Valencia,Spain,367,218,505,155,311.25,331,257,93,7
+441,West Virginia University,USA,328,218,409,617,393,483,258,95,7.3
+442,University of Tampere,Finland,367,218,439,679,425.75,567,266,90,7.5
+443,Southeast University,China,168,218,702,149,309.25,326,263,92,7.8
+444,Miami University,USA,367,218,543,871,499.75,785,282,102,8.4
+445,University of Dayton,USA,348,218,818,675,514.75,821,276,98,8.7
+446,University of Siena,Italy,367,218,365,712,415.5,542,272,95,8.4
+447,University of Oulu,Finland,275,218,344,521,339.5,381,279,99,8.6
+448,Indian Institute of Science,India,367,218,537,239,340.25,384,289,104,9
+449,Macquarie University,Australia,367,218,292,530,351.75,405,271,95,8.15
+450,University of Rostock,Germany,364,218,591,325,374.5,442,277,96,7.7
+451,Jagiellonian University,Poland,367,218,465,355,351.25,404,263,83,7.6
+452,Pusan National University,South Korea,367,218,488,147,305,314,262,85,7.2
+453,University of Strathclyde,United Kingdom,367,218,467,305,339.25,379,284,101,7.3
+454,"University of Nevada, Reno",USA,367,218,382,708,418.75,551,274,97,7.4
+455,University of Saskatchewan,Canada,336,218,442,427,355.75,408,272,95,7.3
+456,University of Parma,Italy,367,218,463,741,447.25,630,270,88,7
+457,Kanazawa University,Japan,367,218,419,350,338.5,375,266,87,6.7
+458,Eötvös Loránd University,Hungary,89,116,444,724,343.25,388,248,84,6.9
+459,Aristotle University of Thessaloniki,Greece,367,218,683,756,506,800,250,84,6.1
+460,Ohio University,USA,205,218,472,224,279.75,269,261,89,7.6
+461,University of Iceland,Iceland,367,218,295,839,429.75,574,259,85,7.4
+462,University of Warsaw,Poland,118,150,462,716,361.5,421,257,86,7.5
+463,Syracuse University,USA,138,218,494,392,310.5,329,254,90,7.5
+464,Bielefeld University,Germany,367,218,375,774,433.5,581,265,92,7.8
+465,Juntendo University,Japan,367,218,498,853,484,748,275,96,8
+466,University of Wyoming,USA,367,218,316,380,320.25,347,275,97,8.22
+467,University of Wollongong,Australia,367,218,433,493,377.75,448,277,99,8.32
+468,Niigata University,Japan,367,218,514,238,334.25,368,266,92,7.94
+469,Texas Tech University (TTU),USA,367,218,618,809,503,789,268,94,8.52
+470,Middle East Technical University,Turkey,367,218,879,871,583.75,961,278,100,8.46
+471,École normale supérieure de Lyon,France,367,135,210,589,325.25,353,282,103,8.94
+472,Brunel University,United Kingdom,367,218,676,667,482,744,286,97,9.06
+473,Nihon University,Japan,301,218,588,113,305,314,271,96,8.75
+474,Osaka City University,Japan,108,218,536,374,309,324,264,93,8.34
+475,University of Rennes 1,France,367,218,341,344,317.5,343,264,91,8.2
+476,University of Oklahoma Health Sciences Center,USA,367,218,461,482,382,460,279,99,7.86
+477,East China University of Science and Technology,China,367,218,828,184,399.25,498,277,97,8.02
+478,University of KwaZulu-Natal,South Africa,367,218,397,539,380.25,453,251,84,7.52
+479,Sichuan University,China,367,218,478,597,415,540,246,80,6.84
+480,Illinois Institute of Technology,USA,274,218,713,861,516.5,826,244,78,6.66
+481,Tokyo University of Science,Japan,367,218,530,191,326.5,356,262,90,7.32
+482,"University of Science, Malaysia",Malaysia,367,218,888,94,391.75,480,290,105,8.8
+483,Clemson University,USA,367,218,497,510,398,495,270,95,8.52
+484,University of Zaragoza,Spain,366,218,675,276,383.75,462,272,100,8.66
+485,University of the Basque Country,Spain,367,218,387,266,309.5,327,290,100,8.75
+486,Nagasaki University,Japan,299,218,607,233,339.25,379,269,88,7.96
+487,Technical University of Dortmund,Germany,367,218,528,284,349.25,396,265,91,7.72
+488,University of Hawaii at Manoa,USA,367,153,213,490,305.75,315,267,92,7.58
+489,University of Nebraska Omaha,USA,367,218,606,871,515.5,824,264,93,7.44
+490,University of Konstanz,Germany,367,218,337,614,384,463,266,94,8.06
+491,Panjab University,India,333,218,786,824,540.25,878,268,91,7.22
+492,University of Hanover,Germany,367,218,507,250,335.5,370,249,82,6.96
+493,"University of Maryland, Baltimore County",USA,367,218,391,423,349.75,397,248,83,7.33
+494,University of Newcastle,Australia,367,218,496,322,350.75,402,251,82,7.18
+495,University of Ulsan,South Korea,367,218,599,370,388.5,477,253,84,6.96
+496,Renmin University of China,China,367,218,936,715,559,916,254,85,7.14
+497,Martin Luther University of Halle-Wittenberg,Germany,358,210,345,706,404.75,515,256,85,7.3
+498,University of Malaya,Malaysia,367,218,877,274,434,585,281,105,8.26
+499,University of Savoy,France,367,218,435,731,437.75,600,282,104,8.54
+500,University of Udine,Italy,367,218,390,634,402.25,506,273,98,8.18
+501,Tokyo Metropolitan University,Japan,367,218,460,574,404.75,515,272,92,7.76
+502,University of Sherbrooke,Canada,367,218,421,853,464.75,690,262,90,7.42
+503,University of Brescia,Italy,367,218,614,816,503.75,792,264,91,7.55
+504,University of Ljubljana,Slovenia,367,218,415,507,376.75,445,267,89,7.77
+505,University of Nice Sophia Antipolis,France,266,218,259,513,314,337,276,97,8.35
+506,University of Hull,United Kingdom,305,162,557,524,387,475,266,95,8.08
+507,University of Coimbra,Portugal,359,218,423,459,364.75,427,279,96,8.48
+508,Creighton University,USA,367,218,724,615,481,740,288,102,8.76
+509,Georgia State University,USA,367,218,484,360,357.25,411,281,101,8.68
+510,University of Wisconsin–Milwaukee,USA,229,218,491,871,452.25,641,254,88,7.94
+511,Catholic University of Korea,South Korea,367,218,792,139,379,449,255,93,7.78
+512,University of Tokushima,Japan,107,218,453,247,256.25,237,271,94,7.98
+513,Yokohama City University,Japan,367,218,370,359,328.5,362,251,92,7.64
+514,Lanzhou University,China,367,218,689,624,474.5,723,270,95,7.86
+515,University of Crete,Greece,367,218,518,871,493.5,765,261,90,7.75
+516,SUNY Downstate Medical Center,USA,367,155,446,660,407,521,260,91,8.34
+517,University of Potsdam,Germany,367,218,313,584,370.5,434,249,87,7.92
+518,Yokohama National University,Japan,88,135,865,440,382,460,240,89,6.76
+519,New Mexico State University,USA,367,218,585,871,510.25,807,246,84,6.58
+520,University of Bayreuth,Germany,367,218,331,603,379.75,452,277,89,8.14
+521,Bar-Ilan University,Israel,280,218,410,338,311.5,333,285,102,8.86
+522,University of Mississippi - Oxford Campus,USA,367,218,851,611,511.75,811,284,104,8.78
+523,University of Tasmania,Australia,367,218,261,727,393.25,484,260,91,7.66
+524,Graduate University for Advanced Studies,Japan,367,218,291,871,436.75,595,258,93,7.52
+525,University of Surrey,United Kingdom,217,218,553,300,322,350,251,91,7.77
+526,Federal University of Minas Gerais,Brazil,367,218,521,207,328.25,361,250,85,7.96
+527,University of Tromsø - The Arctic University of Norway,Norway,367,218,407,824,454,651,273,98,8.62
+528,University of Palermo,Italy,367,218,545,559,422.25,561,269,97,8.01
+529,Shinshu University,Japan,367,218,602,244,357.75,412,276,97,8.4
+530,University of Science and Technology Beijing,China,367,218,937,408,482.5,745,283,103,8.65
+531,University of Catania,Italy,213,218,693,853,494.25,768,289,99,9.06
+532,Mahidol University,Thailand,367,218,372,861,454.5,653,253,90,7.95
+533,University of Canterbury,New Zealand,190,218,437,871,429,573,259,90,7.86
+534,Indian Institute of Technology Madras,India,367,218,943,317,461.25,675,273,97,8.08
+535,University of Bremen,Germany,367,218,289,515,347.25,395,283,98,8.58
+536,Otto-von-Guericke University Magdeburg,Germany,367,218,629,388,400.5,501,264,94,8.07
+537,University of Tartu,Estonia,365,218,318,426,331.75,365,262,88,7.75
+538,University of Windsor,Canada,367,218,912,658,538.75,873,266,85,7.46
+539,University of Nantes,France,367,218,420,579,396,492,276,101,8.38
+540,"Royal Holloway, University of London",United Kingdom,367,218,306,556,361.75,422,268,94,8.42
+541,James Cook University,Australia,367,218,248,665,374.5,442,279,95,8.45
+542,National Yang-Ming University,Taiwan,367,218,517,824,481.5,743,282,103,8.66
+543,University of Akron,USA,367,218,653,166,351,403,281,100,8.74
+544,National Chung Hsing University,Taiwan,367,218,682,871,534.5,862,290,105,9.22
+545,City University London,United Kingdom,367,218,861,601,511.75,811,275,97,8.26
+546,New York Medical College,USA,367,218,622,719,481.5,743,270,98,7.94
+547,Nara Institute of Science and Technology,Japan,367,218,329,270,296,292,265,90,7.78
+548,École Centrale Paris,France,367,218,827,839,562.75,928,276,99,8.41
+549,Auburn University,USA,367,218,569,425,394.75,489,289,101,9.1
+550,University of Arkansas - Fayetteville,USA,204,218,571,409,350.5,400,261,91,7.56
+551,University of Zagreb,Croatia,367,218,541,650,444,619,284,99,8.73
+552,University of Lübeck,Germany,367,218,394,629,402,504,282,101,8.58
+553,Hunan University,China,367,218,906,816,576.75,953,271,97,8.36
+554,University of Missouri–Kansas City,USA,311,218,447,687,415.75,543,274,90,8.05
+555,Tokyo Women's Medical University,Japan,367,218,594,362,385.25,468,276,93,8.19
+556,Montana State University - Bozeman,USA,367,218,323,744,413,533,262,94,7.99
+557,University of Aveiro,Portugal,367,218,680,212,369.25,431,265,90,7.64
+558,"National University of Ireland, Galway",Ireland,367,218,546,293,356,409,259,89,7.56
+559,University of Oviedo,Spain,367,218,445,579,402.25,506,256,91,7.44
+560,Dongguk University,South Korea,367,218,917,108,402.5,507,247,85,7.2
+561,University of Trento,Italy,367,218,556,861,500.5,786,265,88,7.16
+562,University Lille 1: Sciences and Technologies,France,367,218,400,546,382.75,461,248,84,6.76
+563,Chang Gung University,Taiwan,367,218,598,824,501.75,787,268,94,7.8
+564,National Central University,Taiwan,225,218,468,839,437.5,598,267,90,7.86
+565,Aalborg University,Denmark,367,218,660,401,411.5,531,279,96,8.31
+566,Utah State University,USA,166,218,414,371,292.25,285,272,95,8.27
+567,Baylor University,USA,367,218,681,630,474,720,252,87,7.63
+568,Bangor University,United Kingdom,260,218,568,342,347,394,263,87,7.57
+569,King Saud University,Saudi Arabia,367,218,539,232,339,376,243,82,7.1
+570,University of Cagliari,Italy,367,218,567,623,443.75,617,261,84,7.28
+571,Kent State University,USA,367,218,436,498,379.75,452,262,86,7.34
+572,Central China Normal University,China,367,218,855,778,554.5,904,284,102,8.37
+573,University of Fribourg,Switzerland,232,218,428,787,416.25,546,272,95,8.43
+574,Medical University of Graz,Austria,367,218,628,576,447.25,630,273,98,8.53
+575,Second University of Naples,Italy,367,218,641,824,512.5,814,271,96,8.27
+576,International School for Advanced Studies,Italy,367,218,406,768,439.75,602,270,96,8.17
+577,Tampere University of Technology,Finland,367,218,646,746,494.25,768,279,104,8.46
+578,Inha University,South Korea,367,218,780,273,409.5,525,269,95,8.34
+579,Deakin University,Australia,367,218,647,636,467,699,259,93,7.42
+580,National Polytechnic Institute of Toulouse,France,367,218,672,413,417.5,548,257,87,7.57
+581,Sogang University,South Korea,367,218,798,115,374.5,442,250,89,7.46
+582,University of Ioannina,Greece,367,218,836,871,573,942,255,92,7.72
+583,Federal University of Rio Grande do Sul,Brazil,367,218,578,787,487.5,755,249,85,7.18
+584,University of Graz,Austria,349,204,547,600,425,565,264,95,8.1
+585,University of Montana - Missoula,USA,353,218,315,702,397,494,266,91,7.62
+586,East China Normal University,China,367,218,645,576,451.5,638,277,98,8.41
+587,Plymouth University,United Kingdom,367,218,429,651,416.25,546,267,92,7.98
+588,Victoria University of Wellington,New Zealand,317,218,469,809,453.25,647,285,103,8.74
+589,Federal University of São Paulo,Brazil,367,218,638,839,515.5,824,281,100,8.66
+590,Southern Illinois University Carbondale,USA,208,218,512,588,381.5,456,274,97,8.38
+591,University of Alaska Fairbanks,USA,367,218,373,792,437.5,598,274,96,8.46
+592,University of Toledo,USA,367,218,555,220,340,382,273,95,8.28
+593,Carleton University,Canada,367,218,739,871,548.75,892,272,99,8.24
+594,Cranfield University,United Kingdom,367,218,762,549,474,720,286,103,8.83
+595,Curtin University,Australia,367,218,384,518,371.75,437,266,94,8.06
+596,Indian Institute of Technology Bombay,India,367,218,815,176,394,487,257,92,7.82
+597,University of Portsmouth,United Kingdom,367,218,719,765,517.25,827,256,90,7.56
+598,Osaka Prefecture University,Japan,367,218,671,187,360.75,420,260,91,7.63
+599,Nagoya City University,Japan,367,218,525,400,377.5,447,261,89,7.73
+600,LSU Health Sciences Center New Orleans,USA,367,218,544,661,447.5,632,263,92,7.99
+601,Tata Institute of Fundamental Research,India,367,218,450,792,456.75,661,267,88,7.84
+602,Konkuk University,South Korea,367,218,748,204,384.25,464,265,95,7.76
+603,University of La Laguna,Spain,367,218,336,661,395.5,490,290,105,9.21
+604,University of Hertfordshire,United Kingdom,367,218,396,839,455,654,284,105,9.17
+605,Florida International University,USA,367,218,508,585,419.5,555,248,90,7.84
+606,University of Rhode Island,USA,367,218,385,472,360.5,419,245,84,6.95
+607,Mississippi State University,USA,155,218,608,566,386.75,474,265,84,7.19
+608,Gunma University,Japan,367,218,531,252,342,386,260,87,7.32
+609,University of New Orleans,USA,367,218,840,871,574,946,255,91,7.46
+610,"Putra University, Malaysia",Malaysia,367,218,900,114,399.75,499,251,89,7.42
+611,Memorial University of Newfoundland,Canada,367,218,577,653,453.75,650,275,93,8.36
+612,Universidade Nova de Lisboa,Portugal,367,218,477,590,413,533,278,95,8.44
+613,Griffith University,Australia,367,218,500,556,410.25,526,288,105,8.96
+614,Indian Institute of Technology Kharagpur,India,367,218,974,644,550.75,895,283,104,9.08
+615,Soochow University (Suzhou),China,367,218,773,871,557.25,910,281,102,8.72
+616,Texas A&M Health Science Center,USA,367,218,440,336,340.25,384,280,101,8.66
+617,Semmelweis University,Hungary,367,218,481,670,434,585,272,97,8.56
+618,Lille 2 University of Health and Law,France,367,218,631,630,461.5,678,271,94,8.43
+619,Kagoshima University,Japan,367,218,706,251,385.5,469,274,95,8.27
+620,Flinders University,Australia,122,218,581,686,401.75,503,262,89,7.72
+621,Queensland University of Technology,Australia,367,218,750,492,456.75,661,263,88,8.05
+622,Tokai University,Japan,367,218,644,448,419.25,553,266,95,7.86
+623,Istanbul University,Turkey,253,218,560,871,475.5,724,274,98,8.09
+624,Tokyo University of Agriculture and Technology,Japan,367,218,756,264,401.25,502,258,94,7.75
+625,Louisiana Tech University,USA,367,218,871,792,562,924,255,90,7.53
+626,University of Texas at Arlington,USA,367,218,532,462,394.75,489,246,84,7.33
+627,China Agricultural University,China,367,218,362,572,379.75,452,256,95,7.75
+628,Chungnam National University,South Korea,367,218,563,290,359.5,414,262,95,7.83
+629,University of Minho,Portugal,367,218,652,363,400,500,268,97,7.97
+630,"University of Eastern Piedmont Amedeo Avogadro""""",Italy,367,218,623,739,486.75,753,274,96,8.31
+631,Open University (UK),United Kingdom,367,218,340,809,433.5,581,263,89,7.95
+632,University of Essex,United Kingdom,119,218,695,871,475.75,726,269,91,7.63
+633,Paris-Est Créteil Val-de-Marne University,France,367,218,611,824,505,799,262,92,7.57
+634,Hacettepe University,Turkey,367,218,630,871,521.5,832,254,85,7.37
+635,State University of New York Upstate Medical University,USA,367,218,632,598,453.75,650,280,98,8.61
+636,Braunschweig University of Technology,Germany,226,218,383,343,292.5,286,276,96,8.53
+637,University of Salamanca,Spain,367,218,483,736,451,637,275,97,8.47
+638,Indian Institute of Technology Roorkee,India,367,218,931,871,596.75,974,279,99,8.49
+639,Örebro University,Sweden,367,218,747,871,550.75,895,260,89,7.67
+640,Northeast Normal University,China,367,218,765,871,555.25,905,249,85,7.19
+641,University of Patras,Greece,367,218,704,731,505,799,246,86,6.98
+642,Beijing University of Chemical Technology,China,367,218,984,214,445.75,624,267,88,7.45
+643,Northern Illinois University,USA,367,218,661,621,466.75,698,274,100,8.06
+644,Rovira i Virgili University,Spain,367,218,573,485,410.75,527,275,99,8.34
+645,La Trobe University,Australia,367,218,455,803,460.75,672,264,92,7.86
+646,Warsaw University of Technology,Poland,344,218,757,824,535.75,865,278,95,8.32
+647,Binghamton University,USA,367,218,593,853,507.75,803,266,90,8.03
+648,Shizuoka University,Japan,367,218,708,163,364,424,261,89,7.78
+649,Hong Kong Baptist University,Hong Kong,367,218,937,691,553.25,901,274,95,8.17
+650,Albany Medical College,USA,171,218,771,720,470,709,271,96,8.13
+651,Ehime University,Japan,367,218,582,418,396.25,493,270,89,7.87
+652,University of Los Andes (Colombia),Colombia,367,218,561,749,473.75,717,266,84,8.3
+653,Polytechnic University of Turin,Italy,367,218,798,283,416.5,547,268,85,7.84
+654,University of Burgundy,France,224,218,527,774,435.75,590,285,100,8.98
+655,University of Idaho,USA,367,218,417,469,367.75,428,271,99,8.42
+656,Old Dominion University,USA,367,218,590,379,388.5,477,257,95,7.67
+657,Yamaguchi University,Japan,367,218,787,202,393.5,485,259,84,7.86
+658,Massey University,New Zealand,367,218,554,723,465.5,693,274,85,7.94
+659,Donghua University,China,367,218,962,726,568.25,935,276,87,8.06
+660,University of the Balearic Islands,Spain,367,218,558,503,411.5,531,281,104,8.64
+661,Portland State University,USA,367,218,548,484,404.25,511,277,93,8.43
+662,Marche Polytechnic University,Italy,367,218,649,748,495.5,774,262,89,7.39
+663,University of Québec at Montreal,Canada,367,218,534,871,497.5,778,258,88,7.66
+664,"UNESP, São Paulo State University",Brazil,367,218,613,627,456.25,659,274,96,8.09
+665,Loma Linda University,USA,367,218,755,555,473.75,717,275,95,8.06
+666,University of Toyama,Japan,367,218,760,871,554,903,263,87,7.98
+667,University of Debrecen,Hungary,367,218,621,499,426.25,569,262,90,7.75
+668,"University of Maine, Orono",USA,345,218,427,346,334,367,264,92,7.47
+669,Graz University of Technology,Austria,367,218,715,404,426,568,277,98,8.44
+670,Gifu University,Japan,367,218,658,403,411.5,531,258,93,7.64
+671,University of Jyväskylä,Finland,367,218,443,805,458.25,668,256,90,7.52
+672,University of Paris 13,France,367,218,744,700,507.25,802,249,81,7.16
+673,University of Girona,Spain,367,218,843,756,546,888,244,80,6.94
+674,Keele University,United Kingdom,367,218,533,853,492.75,763,262,84,7.31
+675,University of Poitiers,France,255,148,470,754,406.75,520,265,85,7.25
+676,University of Insubria,Italy,367,218,564,871,505,799,272,95,8.26
+677,Wuhan University of Technology,China,367,218,931,763,569.75,936,279,98,8.75
+678,University of Pretoria,South Africa,367,218,513,604,425.5,566,270,86,7.92
+679,Banaras Hindu University,India,243,218,904,871,559,916,258,88,7.79
+680,University of L'Aquila,Italy,367,218,678,871,533.5,859,254,87,8.03
+681,University of Alicante,Spain,367,218,779,262,406.5,519,261,87,7.94
+682,American University of Beirut,Lebanon,114,218,892,871,523.75,835,267,95,8.41
+683,University of Ulster,United Kingdom,367,218,808,240,408.25,523,262,91,8.09
+684,Shanghai University,China,367,218,929,782,574,946,271,96,8.2
+685,Comenius University in Bratislava,Slovak Republic,367,218,624,871,520,830,290,97,8.96
+686,University of Vigo,Spain,367,218,822,621,507,801,281,101,8.56
+687,"University of Nevada, Las Vegas",USA,367,218,473,861,479.75,737,286,103,8.49
+688,Swinburne University of Technology,Australia,367,218,456,772,453.25,647,274,99,8.38
+689,Tilburg University,Netherlands,367,218,878,871,583.5,960,264,89,8.32
+690,University of Messina,Italy,367,218,803,871,564.75,932,263,94,8.3
+691,Kaiserslautern University of Technology,Germany,367,218,523,668,444,619,257,90,6.95
+692,University of Kent,United Kingdom,367,218,458,861,476,727,250,87,7.17
+693,University of Málaga,Spain,367,218,830,203,404.5,512,252,84,7.27
+694,Loughborough University,United Kingdom,367,218,806,480,467.75,700,262,83,7.48
+695,National Technical University of Athens,Greece,187,218,950,871,556.5,909,266,86,7.62
+696,Liverpool John Moores University,United Kingdom,367,218,395,871,462.75,681,267,85,7.87
+697,Sharif University of Technology,Iran,116,218,950,871,538.75,873,260,92,7.97
+698,"Birkbeck, University of London",United Kingdom,300,218,339,871,432,577,270,105,8.41
+699,"University François Rabelais, Tours",France,201,218,499,703,405.25,517,280,99,8.54
+700,University of Haifa,Israel,367,218,479,503,391.75,480,255,97,7.95
+701,Roma Tre University,Italy,367,218,637,756,494.5,770,259,91,7.3
+702,Masaryk University,Czech Republic,367,218,519,705,452.25,641,269,93,8.06
+703,University of Salerno,Italy,367,218,835,525,486.25,752,272,90,7.75
+704,King Abdullah University of Science and Technology,Saudi Arabia,367,126,529,182,301,302,273,92,7.85
+705,Beihang University,China,367,218,865,307,439.25,601,263,91,7.73
+706,Fuzhou University,China,367,218,984,463,508,804,271,94,8.1
+707,Heriot-Watt University,United Kingdom,367,218,597,439,405.25,517,273,95,8.4
+708,China Medical University (Taiwan),Taiwan,367,218,686,871,535.5,864,275,97,8.3
+709,University of Cantabria,Spain,367,218,587,571,435.75,590,262,93,7.83
+710,Rochester Institute of Technology,USA,367,218,643,587,453.75,650,258,95,7.9
+711,Royal College of Surgeons in Ireland,Ireland,367,218,714,446,436.25,592,270,89,8.04
+712,San Francisco State University,USA,271,218,572,871,483,746,278,93,8.48
+713,Sapporo Medical University,Japan,367,218,837,441,465.75,694,261,92,8.3
+714,Indian Institute of Technology Kanpur,India,174,218,848,450,422.5,562,251,85,7.34
+715,Johannes Kepler University of Linz,Austria,367,218,659,560,451,637,255,90,7.43
+716,Czech Technical University in Prague,Czech Republic,347,218,816,582,490.75,760,258,89,7.37
+717,Marquette University,USA,367,218,785,682,513,818,248,86,7.16
+718,Missouri University of Science and Technology,USA,367,218,923,592,525,838,250,84,7.31
+719,Howard University,USA,294,218,665,296,368.25,430,274,96,8.1
+720,Aston University,United Kingdom,367,218,895,306,446.5,628,277,98,7.99
+721,École normale supérieure de Cachan,France,121,218,776,871,496.5,777,267,91,7.8
+722,Jichi Medical University,Japan,367,218,633,641,464.75,690,273,89,7.74
+723,"Rutgers, The State University of New Jersey - Newark",USA,367,218,515,871,492.75,763,264,92,7.57
+724,"Palacký University, Olomouc",Czech Republic,367,218,562,475,405.5,518,255,87,7.48
+725,Ankara University,Turkey,367,218,728,871,546,888,265,89,7.63
+726,University of Belgrade,Serbia,276,218,694,824,503,789,276,101,8.44
+727,Toho University,Japan,367,159,824,787,534.25,861,249,85,7.32
+728,Kyoto Prefectural University of Medicine,Japan,367,218,752,871,552,897,245,86,7.16
+729,Swansea University,United Kingdom,367,218,566,595,436.5,593,274,97,8.07
+730,Université de Namur,Belgium,164,218,700,716,449.5,633,247,81,7.19
+731,University of Szeged,Hungary,367,205,720,532,456,658,277,98,7.96
+732,Kitasato University,Japan,367,218,595,871,512.75,816,261,90,7.42
+733,Hasselt University,Belgium,367,218,904,761,562.5,927,258,91,7.51
+734,University of Córdoba (Spain),Spain,367,218,725,633,485.75,751,269,93,7.84
+735,Åbo Akademi University,Finland,367,218,679,731,498.75,782,262,92,7.95
+736,Tottori University,Japan,367,218,721,390,424,563,275,96,8.41
+737,Kindai University,Japan,367,218,712,437,433.5,581,269,95,8.09
+738,University of Castilla–La Mancha,Spain,367,218,751,519,463.75,685,282,103,8.77
+739,University of Augsburg,Germany,367,218,684,792,515.25,822,273,93,8.04
+740,"Paul Valéry University, Montpellier III",France,367,218,502,871,489.5,757,274,92,7.96
+741,University of Mons,Belgium,367,218,793,517,473.75,717,262,92,7.76
+742,Istanbul Technical University,Turkey,367,218,875,839,574.75,949,276,95,8.06
+743,"University of Natural Resources and Life Sciences, Vienna",Austria,367,218,627,611,455.75,656,258,91,7.54
+744,National University of La Plata,Argentina,367,218,559,871,503.75,792,255,88,7.43
+745,University of Calabria,Italy,367,218,890,700,543.75,884,245,81,6.64
+746,University of Memphis,USA,367,218,640,394,404.75,515,266,83,6.73
+747,"G. d'Annunzio University, Chieti-Pescara",Italy,367,218,615,871,517.75,829,254,82,6.94
+748,University of Missouri–St. Louis,USA,367,218,524,634,435.75,590,249,79,6.64
+749,Beijing Institute of Technology,China,367,218,969,569,530.75,851,252,84,6.55
+750,University of Évry Val d'Essonne,France,367,218,368,871,456,658,263,86,7.34
+751,University of South Australia,Australia,367,218,746,431,440.5,604,268,92,7.57
+752,University of Alabama in Huntsville,USA,367,218,432,805,455.5,655,275,95,7.97
+753,University of Salzburg,Austria,367,218,738,871,548.5,891,253,85,7.36
+754,University of Mississippi Medical Center,USA,367,218,504,871,490,759,250,87,7.47
+755,National Research Nuclear University MEPhI,Russia,306,218,699,871,523.5,834,247,83,6.97
+756,Chung-Ang University,South Korea,367,218,781,218,396,492,267,91,7.42
+757,Kaohsiung Medical University,Taiwan,367,218,854,661,525,838,277,94,8.07
+758,University of Neuchâtel,Switzerland,352,218,635,640,461.25,675,251,89,7.19
+759,University of Yamanashi,Japan,367,218,862,382,457.25,664,264,90,6.94
+760,Yamagata University,Japan,367,218,736,535,464,687,271,92,7.74
+761,New Jersey Institute of Technology,USA,259,218,670,391,384.5,465,272,95,7.94
+762,East Carolina University,USA,367,218,685,639,477.25,730,284,101,8.84
+763,University of Hyogo,Japan,367,218,475,787,461.75,679,288,100,8.53
+764,University of Picardie Jules Verne,France,367,218,782,543,477.5,731,256,88,7.66
+765,University of Salento,Italy,367,218,743,654,495.5,774,263,87,8.2
+766,Northern Arizona University,USA,367,218,489,609,420.75,558,280,99,8.47
+767,Miguel Hernández University of Elche,Spain,367,218,617,497,424.75,564,270,89,7.64
+768,University of Tehran,Iran,181,218,984,871,563.5,930,261,83,6.76
+769,Blaise Pascal University,France,367,192,701,619,469.75,707,248,77,7.18
+770,Yeungnam University,South Korea,367,218,974,231,447.5,632,251,83,7.33
+771,Kurume University,Japan,367,218,770,473,457,662,260,88,7.54
+772,Institut national des sciences Appliquées de Lyon,France,367,218,674,558,454.25,652,274,95,8.52
+773,Saga University,Japan,367,218,791,435,452.75,642,286,104,8.92
+774,Chongqing University,China,367,218,892,809,571.5,939,271,94,7.84
+775,Jikei University School of Medicine,Japan,367,218,711,797,523.25,833,265,90,6.95
+776,Second Military Medical University,China,367,218,664,395,411,528,254,86,6.96
+777,Jawaharlal Nehru Centre for Advanced Scientific Research,India,367,218,650,453,422,560,247,81,6.73
+778,"University of North Texas, Denton",USA,367,218,636,554,443.75,617,240,85,6.86
+779,Ege University,Turkey,367,218,839,871,573.75,943,253,83,6.95
+780,Mie University,Japan,367,218,860,368,453.25,647,261,84,7.73
+781,École Polytechnique de Montréal,Canada,367,218,921,412,479.5,735,272,89,8.14
+782,AGH University of Science and Technology,Poland,267,218,891,398,443.5,615,269,90,7.97
+783,University of Electronic Science and Technology of China,China,367,218,912,552,512.25,813,274,95,8.45
+784,University of Stirling,United Kingdom,367,218,707,871,540.75,879,250,85,7.56
+785,University of Greifswald,Germany,367,211,487,476,385.25,468,290,98,9.04
+786,National Polytechnic Institute,Mexico,330,218,579,620,436.75,595,285,102,9.12
+787,Jacobs University Bremen,Germany,367,218,666,533,446,625,252,86,7.26
+788,Capital Medical University,China,367,218,754,871,552.5,900,257,90,7.4
+789,Norwegian University of Life Sciences,Norway,367,218,570,782,484.25,750,246,82,7.1
+790,Michigan Technological University,USA,341,218,769,581,477.25,730,270,93,7.74
+791,Vilnius University,Lithuania,340,218,642,684,471,710,264,87,7.54
+792,North Dakota State University - Main Campus,USA,172,218,790,871,512.75,816,268,91,7.95
+793,University of Hohenheim,Germany,367,218,691,782,514.5,820,276,97,8.42
+794,University of North Carolina at Charlotte,USA,367,218,662,593,460,671,267,89,8.06
+795,Zhengzhou University,China,367,218,806,749,535,863,279,96,8.53
+796,Cairo University,Egypt,285,180,730,871,516.5,826,274,95,8.34
+797,University of Caen Lower Normandy,France,207,218,768,787,495,771,275,92,8.41
+798,Saitama Medical University,Japan,367,218,586,488,414.75,539,280,101,8.75
+799,University of Murcia,Spain,367,218,703,479,441.75,609,262,88,8.08
+800,Showa University,Japan,367,218,759,727,517.75,829,283,102,8.96
+801,University of Oldenburg,Germany,367,218,619,816,505,799,237,93,8.45
+802,Magna Græcia University of Catanzaro,Italy,367,218,813,766,541,880,224,82,7.67
+803,National Sun Yat-sen University,Taiwan,367,218,950,871,601.5,983,216,79,6.8
+804,Nanjing University of Science and Technology,China,367,218,943,694,555.5,906,222,85,7.47
+805,University of Concepción,Chile,367,218,451,505,385.25,468,214,78,7.01
+806,Chungbuk National University,South Korea,367,218,859,319,440.75,605,230,90,8.14
+807,Taipei Medical University,Taiwan,367,218,883,661,532.25,857,221,84,7
+808,Jaume I University,Spain,367,218,958,643,546.5,889,208,76,6.7
+809,Bowling Green State University,USA,367,218,705,824,528.5,847,202,77,6.8
+810,Nanjing University of Technology,China,367,218,984,217,446.5,628,223,83,7.4
+811,University of New England (Australia),Australia,367,218,634,797,504,793,225,81,7.2
+812,Kangwon National University,South Korea,367,218,819,428,458,666,227,86,7.8
+813,Inje University,South Korea,367,218,928,331,461,673,228,87,7.9
+814,Aberystwyth University,United Kingdom,367,218,552,607,436,591,207,84,6.8
+815,"University of Technology, Sydney",Australia,367,218,668,520,443.25,613,211,79,7
+816,University of Franche-Comté,France,302,218,814,583,479.25,734,214,80,7.1
+817,University of Sassari,Italy,367,218,592,805,495.5,774,217,82,7.5
+818,Chiang Mai University,Thailand,367,218,753,871,552.25,898,219,81,6.8
+819,Budapest University of Technology and Economics,Hungary,256,218,761,529,441,607,218,85,7.6
+820,University of Maribor,Slovenia,367,218,820,752,539.25,876,203,77,7.3
+821,University of Bradford,United Kingdom,367,218,772,567,481,740,212,82,6.7
+822,University of Perpignan Via Domitia,France,160,218,580,871,457.25,664,225,89,7.2
+823,Florida Institute of Technology,USA,367,218,793,871,562.25,926,228,91,8.3
+824,University of Brighton,United Kingdom,367,218,829,766,545,886,234,94,8.5
+825,University of Massachusetts Boston,USA,367,218,698,824,526.75,841,236,94,8.6
+826,Rio de Janeiro State University,Brazil,367,218,910,739,558.5,914,240,95,8.4
+827,Nagoya Institute of Technology,Japan,367,218,958,229,443,611,222,84,7.6
+828,Jiangnan University,China,367,218,912,628,531.25,855,198,73,6.3
+829,Murdoch University,Australia,367,218,501,770,464,687,195,68,6
+830,"University of Wales, Trinity Saint David",United Kingdom,367,218,927,871,595.75,972,210,74,6.1
+831,University of Rouen,France,362,218,722,414,429,573,200,72,6.9
+832,The Catholic University of America,USA,367,218,596,674,463.75,685,227,78,7.1
+833,Wright State University - Dayton,USA,367,218,805,824,553.5,902,238,93,8.2
+834,Dankook University,South Korea,367,218,948,241,443.5,615,240,89,8.4
+835,Clarkson University,USA,367,218,974,685,561,920,231,87,8.6
+836,University of Regina,Canada,367,218,737,573,473.75,717,220,85,8
+837,Boğaziçi University,Turkey,367,218,766,824,543.75,884,199,81,7.2
+838,Kōchi University,Japan,367,218,788,536,477.25,730,200,80,6.6
+839,University of Miyazaki,Japan,290,218,692,393,398.25,496,204,80,6.3
+840,University of Electro-Communications,Japan,161,218,833,332,386,472,207,83,6.5
+841,University of Valladolid,Spain,367,218,888,407,470,709,208,85,6.8
+842,Bilkent University,Turkey,367,218,789,871,561.25,921,216,80,7
+843,Dublin City University,Ireland,367,218,933,347,466.25,696,213,82,7.3
+844,University of South Alabama,USA,367,218,784,464,458.25,668,232,92,7.9
+845,Sofia University,Bulgaria,254,218,881,871,556,908,226,88,8.2
+846,Ocean University of China,China,367,218,735,541,465.25,692,222,85,7.9
+847,King Fahd University of Petroleum and Minerals,Saudi Arabia,367,218,950,871,601.5,983,229,89,8.1
+848,University of Veterinary Medicine Vienna,Austria,367,184,687,654,473,712,239,94,8.5
+849,University of Alcalá,Spain,367,218,657,608,462.5,680,221,85,7.65
+850,Hunter College,USA,261,218,610,805,473.5,713,227,86,7.2
+851,"All India Institute of Medical Sciences, New Delhi",India,367,218,886,839,577.5,955,213,73,7.1
+852,Gazi University,Turkey,367,218,942,871,599.5,978,212,75,6.7
+853,"National University of Ireland, Maynooth",Ireland,244,218,710,561,433.25,578,234,91,6.8
+854,Tehran University of Medical Sciences,Iran,367,218,899,871,588.75,963,224,87,6.9
+855,University of the Ryukyus,Japan,367,218,663,618,466.5,697,222,85,6.8
+856,Florida Atlantic University,USA,367,218,741,714,510,806,220,78,6.5
+857,University of Siegen,Germany,367,218,732,769,521.5,832,216,77,6.2
+858,Huazhong Agricultural University,China,367,218,535,494,403.5,508,198,74,6.4
+859,University of Angers,France,367,218,801,550,484,748,200,74,5.6
+860,University of Seoul,South Korea,367,218,907,259,437.75,600,211,79,7.1
+861,Brock University,Canada,367,218,727,638,487.5,755,209,75,6.9
+862,Fukuoka University,Japan,367,218,876,416,469.25,706,207,76,7
+863,Hamamatsu University School of Medicine,Japan,367,218,917,470,493,764,204,80,7
+864,Nanjing Normal University,China,367,218,709,742,509,805,215,82,7.3
+865,National Chung Cheng University,Taiwan,367,218,991,871,611.75,1000,225,86,7.5
+866,Nanjing Agricultural University,China,367,218,726,601,478,732,225,87,7.72
+867,University of the Republic (Uruguay),Uruguay,367,218,669,871,531.25,855,227,89,7.82
+868,Sejong University,South Korea,367,218,845,466,474,720,216,82,7.44
+869,Makerere University,Uganda,367,218,656,871,528,843,218,84,8.02
+870,University of New Brunswick,Canada,367,218,802,591,494.5,770,228,90,7.96
+871,Northeastern University (China),China,367,218,974,698,564.25,931,232,93,8.44
+872,University of Extremadura,Spain,367,218,958,630,543.25,882,236,87,8.56
+873,RMIT University,Australia,367,218,929,585,524.75,836,221,86,8.25
+874,"Royal Veterinary College, University of London",United Kingdom,246,218,550,746,440,603,214,83,7.84
+875,Chung Yuan Christian University,Taiwan,249,218,962,871,575,950,214,81,7.7
+876,University of Osnabrück,Germany,367,218,654,871,527.5,842,229,89,7.36
+877,Northwest University (China),China,367,218,848,871,576,951,227,87,7.52
+878,Chosun University,South Korea,367,218,984,209,444.5,620,201,74,7.02
+879,University of Orléans,France,367,218,495,839,479.75,737,196,70,6.34
+880,Jean Monnet University,France,367,218,486,710,445.25,622,194,68,6.16
+881,École centrale de Lyon,France,367,218,841,570,499,783,212,80,6.82
+882,University of Western Sydney,Australia,367,218,551,647,445.75,624,240,95,8.3
+883,Hefei University of Technology,China,367,218,974,871,607.5,994,220,85,8.02
+884,University of Massachusetts Lowell,USA,367,218,943,304,458,666,222,90,8.16
+885,Manchester Metropolitan University,United Kingdom,367,218,677,721,495.75,775,240,90,8.25
+886,Nanjing Medical University,China,367,218,696,761,510.5,808,219,78,7.46
+887,Kyoto Institute of Technology,Japan,367,218,868,287,435,587,215,81,7.22
+888,Shanghai Normal University,China,367,218,950,871,601.5,983,217,82,7.08
+889,Southwest University,China,268,218,897,669,513,818,214,83,6.94
+890,Adam Mickiewicz University in Poznań,Poland,150,218,775,657,450,635,216,84,7.56
+891,University of Calcutta,India,140,209,900,424,418.25,550,218,81,6.72
+892,University of Pécs,Hungary,367,218,812,501,474.5,723,199,72,6.46
+893,"Queens College, City University of New York",USA,323,218,690,729,490,759,198,73,6.83
+894,University of Lleida,Spain,367,218,850,809,561,920,201,72,6.68
+895,Nanjing University of Aeronautics and Astronautics,China,367,218,974,853,603,985,203,74,6.46
+896,University of Western Brittany,France,367,218,616,599,450,635,204,75,6.64
+897,University of North Carolina at Greensboro,USA,367,218,825,575,496.25,776,206,75,6.8
+898,Pukyong National University,South Korea,367,218,962,356,475.75,726,231,95,7.76
+899,Fourth Military Medical University,China,367,218,716,692,498.25,781,232,94,8.04
+900,University of Fukui,Japan,367,218,797,610,498,779,223,88,7.68
+901,University of Southern Mississippi,USA,367,218,853,676,528.5,847,222,82,7.26
+902,University of Mannheim,Germany,367,218,903,871,589.75,965,212,80,6.92
+903,Shimane University,Japan,367,218,717,695,499.25,784,214,81,7.05
+904,China University of Geosciences (Wuhan),China,367,218,639,752,494,766,217,79,7.27
+905,University of Thessaly,Greece,367,218,984,871,610,996,226,87,7.85
+906,Oakland University,USA,367,218,810,871,566.5,933,216,85,7.58
+907,Wilfrid Laurier University,Canada,367,218,921,871,594.25,969,229,86,7.98
+908,Teikyo University,Japan,367,218,767,803,538.75,873,238,92,8.26
+909,Saitama University,Japan,367,218,609,545,434.75,586,231,91,8.18
+910,Trent University,Canada,367,218,777,782,536,867,204,78,7.44
+911,Nicolaus Copernicus University in Toruń,Poland,367,218,821,698,526,839,205,83,7.28
+912,Tarbiat Modares University,Iran,367,218,991,871,611.75,1000,221,84,7.48
+913,University of North Dakota,USA,367,218,731,606,480.5,738,201,82,7.14
+914,Isfahan University of Technology,Iran,367,218,923,871,594.75,971,220,85,7.36
+915,Fluminense Federal University,Brazil,367,218,892,871,587,962,211,80,7.25
+916,National Taiwan University of Science and Technology,Taiwan,367,218,991,823,599.75,979,210,81,7.84
+917,University of Lethbridge,Canada,367,218,718,853,539,874,199,77,7.42
+918,Federal University of Santa Catarina,Brazil,367,218,941,763,572.25,941,190,79,6.26
+919,University of Camerino,Italy,367,218,826,724,533.75,860,196,74,6.08
+920,University of Brasília,Brazil,367,218,688,871,536,867,227,79,7.64
+921,University of Wrocław,Poland,355,218,842,871,571.5,939,235,92,8.36
+922,University of Basilicata,Italy,367,218,900,871,589,964,234,94,8.28
+923,Jadavpur University,India,367,218,991,735,577.75,957,210,81,7.16
+924,South China Normal University,China,367,218,912,744,560.25,918,208,83,7.02
+925,University of Hyderabad,India,367,218,910,871,591.5,966,201,81,7.27
+926,Ritsumeikan University,Japan,367,218,882,430,474.25,721,200,75,7.46
+927,Carlos III University of Madrid,Spain,367,218,958,383,481.5,743,223,88,8.12
+928,University of Cyprus,Cyprus,367,218,896,816,574.25,947,219,87,7.51
+929,University of Texas at El Paso,USA,367,218,838,706,532.25,857,226,87,7.9
+930,University of Cádiz,Spain,367,218,816,311,428,571,233,93,8.15
+931,Shahid Beheshti University of Medical Sciences,Iran,367,218,920,871,594,968,239,89,8.56
+932,National Taiwan Normal University,Taiwan,367,218,939,871,598.75,976,203,80,7.45
+933,National University of Córdoba,Argentina,367,218,796,871,563,929,209,80,7.36
+934,Federal University of Paraná,Brazil,367,218,800,772,539.25,876,223,87,7.58
+935,University of Jaén,Spain,367,218,871,563,504.75,795,233,88,8.08
+936,"University of California, Merced",USA,367,218,540,491,404,509,214,84,7.57
+937,University of Waikato,New Zealand,367,218,870,703,539.5,877,212,78,7.25
+938,University of Central Lancashire,United Kingdom,367,218,603,749,484.25,750,216,75,6.96
+939,Federal University of Pernambuco,Brazil,367,218,884,417,471.5,711,226,91,7.88
+940,University of Almería,Spain,367,218,974,681,560,917,218,84,7.92
+941,Federal University of São Carlos,Brazil,367,218,948,774,576.75,953,229,85,7.95
+942,Charles Darwin University,Australia,367,218,742,871,549.5,893,232,93,8.16
+943,Yangzhou University,China,367,218,873,871,582.25,959,231,90,8.24
+944,Wrocław University of Technology,Poland,367,218,947,861,598.25,975,240,95,8.72
+945,Hirosaki University,Japan,367,218,844,693,530.5,849,225,87,7.76
+946,National Taiwan Ocean University,Taiwan,367,218,940,871,599,977,220,88,7.44
+947,Jiangsu University,China,367,218,969,323,469.25,706,215,80,7.28
+948,Northwestern Polytechnical University,China,367,218,962,871,604.5,990,226,89,7.91
+949,Xiangtan University,China,367,218,935,778,574.5,948,239,91,8.6
+950,United Arab Emirates University,United Arab Emirates,367,218,851,689,531.25,855,211,81,7.06
+951,Gachon University,South Korea,367,218,880,451,479,733,234,89,8.23
+952,Hallym University,South Korea,367,218,908,565,514.5,820,232,91,8.08
+953,Harbin Engineering University,China,367,218,991,839,603.75,987,221,87,7.86
+954,Dokuz Eylül University,Turkey,367,218,957,871,603.25,986,224,80,7.55
+955,Jinan University,China,367,218,897,688,542.5,881,226,83,7.69
+956,Shiraz University,Iran,367,218,962,871,604.5,990,212,84,7.49
+957,Third Military Medical University,China,367,218,809,721,528.75,848,215,80,7.14
+958,Amirkabir University of Technology,Iran,367,218,962,871,604.5,990,209,79,7.06
+959,Public University of Navarre,Spain,367,218,831,697,528.25,844,206,81,6.94
+960,Federico Santa María Technical University,Chile,367,218,923,645,538.25,870,197,75,6.7
+961,Federal University of ABC,Brazil,367,218,923,871,594.75,971,215,78,6.66
+962,University of Puerto Rico at Mayagüez,Puerto Rico,367,218,793,871,562.25,926,198,74,6.26
+963,Southern Medical University,China,367,218,758,782,531.25,855,218,84,7.3
+964,University of Silesia,Poland,367,218,864,871,580,958,217,80,7.36
+965,Ain Shams University,Egypt,367,218,832,871,572,940,229,86,7.81
+966,University of Valenciennes and Hainaut-Cambresis,France,367,218,950,871,601.5,983,222,85,7.77
+967,Chung Shan Medical University,Taiwan,367,218,973,871,607.25,992,202,77,7.13
+968,National University of Colombia,Colombia,367,218,732,861,544.5,885,213,77,7.07
+969,South China Agricultural University,China,367,218,811,871,566.75,934,193,72,6.6
+970,Ibaraki University,Japan,367,218,448,562,398.75,497,211,74,6.78
+971,Fu Jen Catholic University,Taiwan,367,218,887,824,574,946,212,76,6.84
+972,Hunan Normal University,China,367,218,917,871,593.25,967,234,92,7.87
+973,Ulsan National Institute of Science and Technology,South Korea,367,218,912,349,461.5,678,222,85,7.93
+974,Federal University of Santa Maria,Brazil,367,218,974,871,607.5,994,223,88,8.03
+975,Shenzhen University,China,367,218,778,318,420.25,557,221,86,7.77
+976,Tianjin Medical University,China,367,218,857,839,570.25,937,220,86,7.67
+977,Beijing University of Technology,China,367,218,950,512,511.75,811,229,94,7.96
+978,University of Reims Champagne-Ardenne,France,367,218,884,544,503.25,790,219,85,7.84
+979,Yuan Ze University,Taiwan,367,218,984,871,610,996,209,83,6.92
+980,"University of Chemistry and Technology, Prague",Czech Republic,367,218,868,778,557.75,911,207,77,7.07
+981,University of Limerick,Ireland,367,218,863,516,491,761,200,79,6.96
+982,China Medical University (PRC),China,367,218,749,871,551.25,896,205,82,7.22
+983,Feng Chia University,Taiwan,367,218,991,871,611.75,1000,199,75,6.68
+984,Zhejiang University of Technology,China,367,218,991,672,562,924,214,85,7.6
+985,Novosibirsk State University,Russia,167,218,858,871,528.5,847,216,81,7.12
+986,University of Bucharest,Romania,237,218,804,871,532.5,858,227,88,7.91
+987,Babeș-Bolyai University,Romania,367,218,855,871,577.75,957,217,82,7.48
+988,Mansoura University,Egypt,367,218,969,871,606.25,991,235,93,8.24
+989,University of Pau and Pays de l'Adour,France,367,218,991,809,596.25,973,231,90,8.16
+990,Henan Normal University,China,367,218,991,871,611.75,1000,224,87,7.88
+991,Xidian University,China,367,218,974,434,498.25,781,224,86,7.96
+992,Federal University of Bahia,Brazil,367,218,865,774,556,908,223,85,7.78
+993,Southwest Jiaotong University,China,367,218,962,861,602,984,222,89,7.74
+994,Ryerson University,Canada,367,218,969,756,577.5,955,236,93,8.33
+995,King Abdulaziz University,Saudi Arabia,367,218,430,839,463.5,683,216,84,7.56
+996,University of the Algarve,Portugal,367,218,845,816,561.5,922,207,82,7.32
+997,Alexandria University,Egypt,236,218,908,871,558.25,913,206,80,7.06
+998,Federal University of Ceará,Brazil,367,218,823,824,558,912,210,81,7.13
+999,University of A Coruña,Spain,367,218,974,651,552.5,900,211,79,7.23
+1000,China Pharmaceutical University,China,367,218,991,547,530.75,851,213,82,7.49
