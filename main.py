@@ -1,16 +1,13 @@
 import streamlit as st
-import numpy as np
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
 import pickle
 
 st.set_page_config(page_title="University Recommendation System")
 
-import joblib
 
-# Load the saved model
-model = joblib.load('model.pkl')
+# Load the model
+with open('model.pkl', 'rb') as f:
+    model = pickle.load(f)
 
 # Define the form inputs
 cgpa = st.number_input("CGPA", min_value=0.0, max_value=10.0, step=0.1, format="%.1f")
