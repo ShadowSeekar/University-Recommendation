@@ -17,9 +17,7 @@ toefl = st.number_input("TOEFL Score", min_value=0, max_value=120, step=1)
 # Make predictions
 if st.button("Submit"):
     data = {'CGPA': [cgpa], 'GRE Score': [gre], 'TOEFL Score': [toefl]}
-    df = pd.DataFrame(data)
-    prediction = model.predict(df)
-    if prediction[0] == 1:
-        st.write("You have a good chance of getting admission to the university!")
-    else:
-        st.write("Sorry, your chances of getting admission to the university are low.")
+    prediction = model.predict([[cgpa, gre, toefl]])
+    filtered_data = data[(data['CGPA'] <= cgpa) & (data['GRE Score'] <= gre) & (data['TOEFL Score'] <= toefl)]
+    #print(f"Values less than {cgpa and gre and toefl}: \n{filtered_data}")
+    st.write(f"Recommended Universities: {cgpa and gre and toefl}: \n{filtered_data}")
