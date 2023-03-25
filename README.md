@@ -1,4 +1,4 @@
 # University-Recommendation
-University Recommendation using Random Forest algorithm
+University Recommendation System using Random Forest algorithm
 
 Streamlit app link: https://shadowseekar-university-recommendation-recommender-jgvaut.streamlit.app/
