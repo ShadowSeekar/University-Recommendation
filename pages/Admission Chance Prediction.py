@@ -22,12 +22,12 @@ def app():
     
     # Create the input form for the user
     form = st.form(key='admission_chance_form')
-    gre_score = form.number_input('GRE Score', min_value=250, max_value=340, step=1)
-    toefl_score = form.number_input('TOEFL Score', min_value=70, max_value=120, step=1)
+    gre_score = form.number_input('GRE Score', min_value=260, max_value=340, step=1)
+    toefl_score = form.number_input('TOEFL Score', min_value=80, max_value=120, step=1)
     university_rating = form.slider('University Rating', min_value=1, max_value=5, step=1, value=3)
     sop = form.slider('Statement of Purpose Strength (out of 5)', min_value=0.0, max_value=5.0, step=0.1, value=3.0)
     lor = form.slider('Letter of Recommendation Strength (out of 5)', min_value=0.0, max_value=5.0, step=0.1, value=3.0)
-    cgpa = form.number_input('CGPA', min_value=5.0, max_value=10.0, step=0.01)
+    cgpa = form.number_input('CGPA', min_value=6.50, max_value=10.00, step=0.10)
     research = form.selectbox('Research Experience', ['No', 'Yes'])
     submit_button = form.form_submit_button(label='Predict')
     
