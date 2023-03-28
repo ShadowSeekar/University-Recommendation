@@ -27,7 +27,7 @@ def app():
     university_rating = form.slider('University Rating', min_value=1, max_value=5, step=1, value=3)
     sop = form.slider('Statement of Purpose Strength (out of 5)', min_value=0.0, max_value=5.0, step=0.1, value=3.0)
     lor = form.slider('Letter of Recommendation Strength (out of 5)', min_value=0.0, max_value=5.0, step=0.1, value=3.0)
-    cgpa = form.number_input('CGPA', min_value=6.50, max_value=10.00, step=0.10, default=8.50)
+    cgpa = form.number_input('CGPA', min_value=6.50, max_value=10.00, step=0.10, value=8.50)
     research = form.selectbox('Research Experience', ['No', 'Yes'])
     submit_button = form.form_submit_button(label='Predict')
     
