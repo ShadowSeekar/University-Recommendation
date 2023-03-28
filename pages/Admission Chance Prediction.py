@@ -12,7 +12,7 @@ with open(filename, 'rb') as file:
 def predict_admission_chance(data):
     prediction = model.predict(data)[0]
     # Convert the prediction to percentage and round it to two decimal places
-    prediction_percent = round(prediction * 100, 2)
+    prediction_percent = round(prediction * 100, 4)
     return prediction_percent
 
 # Define the Streamlit app
