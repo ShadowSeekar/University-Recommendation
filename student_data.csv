@@ -1,0 +1,901 @@
+GRE Score,TOEFL Score,SOP,LOR,CGPA,Research,Chance of Admit,Institution
+337,118,4.5,4.5,9.65,1,0.92,Ohio State University
+324,107,4,4.5,8.87,1,0.76,Texas A&M University
+316,104,3,3.5,8,1,0.72,University Of California - Irvine
+322,110,3.5,2.5,8.67,1,0.8,Boston University
+314,103,2,3,8.21,0,0.65,Oregon State University
+330,115,4.5,3,9.34,1,0.9,Stanford University
+321,109,3,4,8.2,1,0.75,McGill University
+308,101,3,4,7.9,0,0.68,University Of Texas At Austin
+302,102,2,1.5,8,0,0.5,Columbia University
+323,108,3.5,3,8.6,0,0.45,University Of Michigan
+325,106,3.5,4,8.4,1,0.52,University Of Virginia
+327,111,4,4.5,9,1,0.84,Carnegie Mellon University
+328,112,4,4.5,9.1,1,0.78,University Of Texas At Dallas
+307,109,4,3,8,1,0.62,New York University
+311,104,3.5,2,8.2,1,0.61,University Of Southern California
+314,105,3.5,2.5,8.3,0,0.54,Northeastern University
+317,107,4,3,8.7,0,0.66,Tufts University
+319,106,4,3,8,1,0.65,Iowa State University
+318,110,4,3,8.8,0,0.63,North Carolina State University
+303,102,3.5,3,8.5,0,0.62,American University
+312,107,3,2,7.9,1,0.64,North Carolina State University
+325,114,3,2,8.4,0,0.7,University Of Californa Los Angeles
+328,116,5,5,9.5,1,0.94,Princeton University
+334,119,5,4.5,9.7,1,0.95,University Of Wisconsin-Madison
+336,119,4,3.5,9.8,1,0.97,Purdue University - West Lafayette
+340,120,4.5,4.5,9.6,1,0.94,Northwestern University
+322,109,4.5,3.5,8.8,0,0.76,University Of Colorado - Boulder
+298,98,1.5,2.5,7.5,1,0.44,University Of Notre Dame
+295,93,2,2,7.2,0,0.46,Clemson University
+310,99,1.5,2,7.3,0,0.54,University Of Cincinnati
+300,97,3,3,8.1,1,0.65,University Of South Carolina
+327,103,4,4,8.3,1,0.74,University Of South Florida
+338,118,3,4.5,9.4,1,0.91,University Of Minnesota
+340,114,4,4,9.6,1,0.9,Emory University
+331,112,4,5,9.8,1,0.94,University Of Washington
+320,110,5,5,9.2,1,0.88,George Washington University
+299,106,4,4,8.4,0,0.64,University Of Toronto
+300,105,1,2,7.8,0,0.58,Arizona State University
+304,105,3,1.5,7.5,0,0.52,University Of Pennsylvania
+307,108,4,3.5,7.7,0,0.48,University Of Houston
+308,110,3.5,3,8,1,0.46,University Of California - San Diego
+316,105,2.5,2.5,8.2,1,0.49,University Of Chicago
+313,107,2.5,2,8.5,1,0.53,Colorado State University
+332,117,4.5,4,9.1,0,0.87,Harvard University
+326,113,4.5,4,9.4,1,0.91,University Of Arizona
+322,110,5,4,9.1,1,0.88,University Of Kansas
+329,114,4,5,9.3,1,0.86,University Of Florida
+339,119,4.5,4,9.7,0,0.89,Rice University
+321,110,3.5,5,8.85,1,0.82,Indiana University Bloomington
+327,111,3,4,8.4,1,0.78,Vanderbilt University
+313,98,2.5,4.5,8.3,1,0.76,University Of Kentucky
+312,100,1.5,3.5,7.9,1,0.56,University Of California - Davis
+334,116,4,3,8,1,0.78,University Of Illinois At Urbana-Champaign
+324,112,4,2.5,8.1,1,0.72,University Of Colorado Boulder
+322,110,3,3.5,8,0,0.7,Rutgers University
+320,103,3,3,7.7,0,0.64,Michigan State University
+316,102,2,3,7.4,0,0.64,University Of Utah
+298,99,4,2,7.6,0,0.46,University Of Georgia
+300,99,3,2,6.8,1,0.36,Temple University
+311,104,2,2,8.3,0,0.42,University Of Wisconsin - Madison
+309,100,3,3,8.1,0,0.48,Duke University
+307,101,4,3,8.2,0,0.47,Cornell University
+304,105,3,3,8.2,1,0.54,The University Of Chicago
+315,107,4,3,8.5,1,0.56,University Of California - Berkeley
+325,111,3,3.5,8.7,0,0.52,Brown University
+325,112,3.5,3.5,8.92,0,0.55,University Of Connecticut
+327,114,3,3,9.02,0,0.61,Syracuse University
+316,107,3.5,3.5,8.64,1,0.57,University Of Oxford
+318,109,3.5,4,9.22,1,0.68,Georgetown University
+328,115,4.5,4,9.16,1,0.78,Johns Hopkins University
+332,118,5,5,9.64,1,0.94,Purdue University
+336,112,5,5,9.76,1,0.96,University Of Rochester
+321,111,5,5,9.45,1,0.93,University Of California - San Diego
+314,108,4.5,4,9.04,1,0.84,University Of Iowa
+314,106,3,5,8.9,0,0.74,University Of Delaware
+329,114,2,4,8.56,1,0.72,North Carolina State University
+327,112,3,3,8.72,1,0.74,University Of Maryland College Park
+301,99,3,2,8.22,0,0.64,Stony Brook University
+296,95,3,2,7.54,1,0.44,Georgia State University
+294,93,1.5,2,7.36,0,0.46,University Of Pittsburgh
+312,105,2,3,8.02,1,0.5,Washington University in St. Louis
+340,120,5,5,9.5,1,0.96,University Of Oregon
+320,110,5,4.5,9.22,1,0.92,University Of Michigan - Ann Arbor
+322,115,4,4.5,9.36,1,0.92,George Mason University
+340,115,4.5,4.5,9.45,1,0.94,Carnegie Mellon University
+319,103,4.5,3.5,8.66,0,0.76,UC Berkeley
+315,106,4.5,3.5,8.42,0,0.72,University Of Maryland
+317,107,3.5,3,8.28,0,0.66,UC Davis
+314,108,4.5,3.5,8.14,0,0.64,University Of California Los Angeles
+316,109,4.5,3.5,8.76,1,0.74,Pennsylvania State University
+318,106,4,4,7.92,1,0.64,Pennsylvania State University
+299,97,5,3.5,7.66,0,0.38,UT Austin
+298,98,4,3,8.03,0,0.34,Yale University
+301,97,3,3,7.88,1,0.44,University Of California Los Angeles
+303,99,2,2.5,7.66,0,0.36,University Of Southern California
+304,100,1.5,2.5,7.84,0,0.42,University Of Florida (Gainesville)
+306,100,3,3,8,0,0.48,UC Irvine
+331,120,4,4,8.96,1,0.86,UNC Chapel Hill
+332,119,5,4.5,9.24,1,0.9,Wayne State University
+323,113,4,4,8.88,1,0.79,UIUC
+322,107,3.5,3.5,8.46,1,0.71,Ohio State University
+312,105,2.5,3,8.12,0,0.64,Virginia Polytechnic And State University (Virginia Tech)
+314,106,4,3.5,8.25,0,0.62,New York University
+317,104,4.5,4,8.47,0,0.57,University Of Southern California
+326,112,3.5,3,9.05,1,0.74,Arizona State University
+316,110,4,4.5,8.78,1,0.69,University Of Central Florida
+329,111,4.5,4.5,9.18,1,0.87,University Of Southern California
+338,117,3.5,4.5,9.46,1,0.91,(SUNY) University At Buffalo
+331,116,5,5,9.38,1,0.93,Carnegie  Mellon University
+304,103,5,4,8.64,0,0.68,University Of California - San Diego
+305,108,3,3,8.48,0,0.61,University Of Texas At Austin
+321,109,4,4,8.68,1,0.69,Florida State University
+301,107,3.5,3.5,8.34,1,0.62,University Of Maryland - College Park
+320,110,4,3.5,8.56,0,0.72,University Of Minnesota - Twin Cities
+311,105,3.5,3,8.45,1,0.59,Boston University
+310,106,4.5,4.5,9.04,1,0.66,Ohio State University
+299,102,4,3.5,8.62,0,0.56,University Of Wisconsin - Madison
+290,104,2,2.5,7.46,0,0.45,University Of Washington - Seattle
+296,99,3,3.5,7.28,0,0.47,University Of Maryland - College Park
+327,104,3,3.5,8.84,1,0.71,University Of Pennsylvania
+335,117,5,5,9.56,1,0.94,University Of Washington Seattle
+334,119,4.5,4.5,9.48,1,0.94,Columbia  University
+310,106,1.5,2.5,8.36,0,0.57,The University Of Wisconsin - Madison
+308,108,3.5,3.5,8.22,0,0.61,UCSD
+301,106,2.5,3,8.47,0,0.57,University Of Maryland - College Park
+300,100,2,3,8.66,1,0.64,University Of California - San Diego
+323,113,4,3,9.32,1,0.85,University Of California - Berkeley
+319,112,2.5,2,8.71,1,0.78,Ohio State University
+326,112,3.5,3,9.1,1,0.84,Texas A&M University
+333,118,5,5,9.35,1,0.92,University Of California - Irvine
+339,114,4,4.5,9.76,1,0.96,Boston University
+303,105,5,4.5,8.65,0,0.77,Oregon State University
+309,105,3.5,3.5,8.56,0,0.71,Stanford University
+323,112,4,4.5,8.78,0,0.79,McGill University
+333,113,4,4,9.28,1,0.89,University Of Texas At Austin
+314,109,3.5,4,8.77,1,0.82,Columbia University
+312,103,5,4,8.45,0,0.76,University Of Michigan
+316,100,1.5,3,8.16,1,0.71,University Of Virginia
+326,116,4.5,3,9.08,1,0.8,Carnegie Mellon University
+318,109,3.5,3.5,9.12,0,0.78,University Of Texas At Dallas
+329,110,4,3,9.15,1,0.84,New York University
+332,118,4.5,3.5,9.36,1,0.9,University Of Southern California
+331,115,4,3.5,9.44,1,0.92,Northeastern University
+340,120,4.5,4,9.92,1,0.97,Tufts University
+325,112,3,3.5,8.96,1,0.8,Iowa State University
+320,113,2,2.5,8.64,1,0.81,North Carolina State University
+315,105,2,2.5,8.48,0,0.75,American University
+326,114,3,3,9.11,1,0.83,North Carolina State University
+339,116,4,3.5,9.8,1,0.96,University Of Californa Los Angeles
+311,106,3.5,3,8.26,1,0.79,Princeton University
+334,114,4,4,9.43,1,0.93,University Of Wisconsin-Madison
+332,116,5,5,9.28,1,0.94,Purdue University - West Lafayette
+321,112,5,5,9.06,1,0.86,Northwestern University
+324,105,3,4,8.75,0,0.79,University Of Colorado - Boulder
+326,108,3,3.5,8.89,0,0.8,University Of Notre Dame
+312,109,3,3,8.69,0,0.77,Clemson University
+315,105,2,2.5,8.34,0,0.7,University Of Cincinnati
+309,104,2,2.5,8.26,0,0.65,University Of South Carolina
+306,106,2,2.5,8.14,0,0.61,University Of South Florida
+297,100,1.5,2,7.9,0,0.52,University Of Minnesota
+315,103,1.5,2,7.86,0,0.57,Emory University
+298,99,1.5,3,7.46,0,0.53,University Of Washington
+318,109,3,3,8.5,0,0.67,George Washington University
+317,105,3.5,3,8.56,0,0.68,University Of Toronto
+329,111,4.5,4,9.01,1,0.81,Arizona State University
+322,110,4.5,4,8.97,0,0.78,University Of Pennsylvania
+302,102,3.5,5,8.33,0,0.65,University Of Houston
+313,102,2,3,8.27,0,0.64,University Of California - San Diego
+293,97,2,4,7.8,1,0.64,University Of Chicago
+311,99,2.5,3,7.98,0,0.65,Colorado State University
+312,101,2.5,3.5,8.04,1,0.68,Harvard University
+334,117,4,4.5,9.07,1,0.89,University Of Arizona
+322,110,4,5,9.13,1,0.86,University Of Kansas
+323,113,4,4.5,9.23,1,0.89,University Of Florida
+321,111,4,4,8.97,1,0.87,Rice University
+320,111,4.5,3.5,8.87,1,0.85,Indiana University Bloomington
+329,119,4.5,4.5,9.16,1,0.9,Vanderbilt University
+319,110,3.5,3.5,9.04,0,0.82,University Of Kentucky
+309,108,2.5,3,8.12,0,0.72,University Of California - Davis
+307,102,3,3,8.27,0,0.73,University Of Illinois At Urbana-Champaign
+300,104,3.5,3,8.16,0,0.71,University Of Colorado Boulder
+305,107,2.5,2.5,8.42,0,0.71,Rutgers University
+299,100,3,3.5,7.88,0,0.68,Michigan State University
+314,110,4,4,8.8,0,0.75,University Of Utah
+316,106,2.5,4,8.32,0,0.72,University Of Georgia
+327,113,4.5,4.5,9.11,1,0.89,Temple University
+317,107,3.5,3,8.68,1,0.84,University Of Wisconsin - Madison
+335,118,4.5,3.5,9.44,1,0.93,Duke University
+331,115,4.5,3.5,9.36,1,0.93,Cornell University
+324,112,5,5,9.08,1,0.88,The University Of Chicago
+324,111,4.5,4,9.16,1,0.9,University Of California - Berkeley
+323,110,4,5,8.98,1,0.87,Brown University
+322,114,4.5,4,8.94,1,0.86,University Of Connecticut
+336,118,4.5,5,9.53,1,0.94,Syracuse University
+316,109,3.5,3,8.76,0,0.77,University Of Oxford
+307,107,3,3.5,8.52,1,0.78,Georgetown University
+306,105,3,2.5,8.26,0,0.73,Johns Hopkins University
+310,106,3.5,2.5,8.33,0,0.73,Purdue University
+311,104,4.5,4.5,8.43,0,0.7,University Of Rochester
+313,107,4,4.5,8.69,0,0.72,University Of California - San Diego
+317,103,2.5,3,8.54,1,0.73,University Of Iowa
+315,110,3.5,3,8.46,1,0.72,University Of Delaware
+340,120,4.5,4.5,9.91,1,0.97,North Carolina State University
+334,120,4,5,9.87,1,0.97,University Of Maryland College Park
+298,105,3.5,4,8.54,0,0.69,Stony Brook University
+295,99,2.5,3,7.65,0,0.57,Georgia State University
+315,99,3.5,3,7.89,0,0.63,University Of Pittsburgh
+310,102,3.5,4,8.02,1,0.66,Washington University in St. Louis
+305,106,3,3,8.16,0,0.64,University Of Oregon
+301,104,3.5,4,8.12,1,0.68,University Of Michigan - Ann Arbor
+325,108,4.5,4,9.06,1,0.79,George Mason University
+328,110,5,4,9.14,1,0.82,Carnegie Mellon University
+338,120,5,5,9.66,1,0.95,UC Berkeley
+333,119,5,4.5,9.78,1,0.96,University Of Maryland
+331,117,4.5,5,9.42,1,0.94,UC Davis
+330,116,5,4.5,9.36,1,0.93,University Of California Los Angeles
+322,112,4.5,4.5,9.26,1,0.91,Pennsylvania State University
+321,109,4,4,9.13,1,0.85,Pennsylvania State University
+324,110,3,3.5,8.97,1,0.84,UT Austin
+312,104,3.5,3.5,8.42,0,0.74,Yale University
+313,103,4,4,8.75,0,0.76,University Of California Los Angeles
+316,110,3.5,4,8.56,0,0.75,University Of Southern California
+324,113,4.5,4,8.79,0,0.76,University Of Florida (Gainesville)
+308,109,3,4,8.45,0,0.71,UC Irvine
+305,105,3,2,8.23,0,0.67,UNC Chapel Hill
+296,99,2.5,2.5,8.03,0,0.61,Wayne State University
+306,110,3.5,4,8.45,0,0.63,UIUC
+312,110,3.5,3,8.53,0,0.64,Ohio State University
+318,112,4,3.5,8.67,0,0.71,Virginia Polytechnic And State University (Virginia Tech)
+324,111,3,3,9.01,1,0.82,New York University
+313,104,4,4.5,8.65,0,0.73,University Of Southern California
+319,106,3.5,2.5,8.33,1,0.74,Arizona State University
+312,107,2.5,3.5,8.27,0,0.69,University Of Central Florida
+304,100,2.5,3.5,8.07,0,0.64,University Of Southern California
+330,113,5,4,9.31,1,0.91,(SUNY) University At Buffalo
+326,111,4.5,4,9.23,1,0.88,Carnegie  Mellon University
+325,112,4,4.5,9.17,1,0.85,University Of California - San Diego
+329,114,4.5,5,9.19,1,0.86,University Of Texas At Austin
+310,104,2,3.5,8.37,0,0.7,Florida State University
+299,100,1.5,2,7.89,0,0.59,University Of Maryland - College Park
+296,101,2.5,3,7.68,0,0.6,University Of Minnesota - Twin Cities
+317,103,2.5,2,8.15,0,0.65,Boston University
+324,115,3.5,3,8.76,1,0.7,Ohio State University
+325,114,3.5,3,9.04,1,0.76,University Of Wisconsin - Madison
+314,107,2.5,4,8.56,0,0.63,University Of Washington - Seattle
+328,110,4,2.5,9.02,1,0.81,University Of Maryland - College Park
+316,105,3,3.5,8.73,0,0.72,University Of Pennsylvania
+311,104,2.5,3.5,8.48,0,0.71,University Of Washington Seattle
+324,110,3.5,4,8.87,1,0.8,Columbia  University
+321,111,3.5,4,8.83,1,0.77,The University Of Wisconsin - Madison
+320,104,3,2.5,8.57,1,0.74,UCSD
+316,99,2.5,3,9,0,0.7,University Of Maryland - College Park
+318,100,2.5,3.5,8.54,1,0.71,University Of California - San Diego
+335,115,4.5,4.5,9.68,1,0.93,University Of California - Berkeley
+321,114,4,5,9.12,0,0.85,Ohio State University
+307,110,4,4.5,8.37,0,0.79,Texas A&M University
+309,99,4,4,8.56,0,0.76,University Of California - Irvine
+324,100,4,5,8.64,1,0.78,Boston University
+326,102,5,5,8.76,1,0.77,Oregon State University
+331,119,5,4.5,9.34,1,0.9,Stanford University
+327,108,5,3.5,9.13,1,0.87,McGill University
+312,104,3.5,4,8.09,0,0.71,University Of Texas At Austin
+308,103,2.5,4,8.36,1,0.7,Columbia University
+324,111,2.5,1.5,8.79,1,0.7,University Of Michigan
+325,110,3,2.5,8.76,1,0.75,University Of Virginia
+313,102,2.5,2.5,8.68,0,0.71,Carnegie Mellon University
+312,105,2,2.5,8.45,0,0.72,University Of Texas At Dallas
+314,107,3,3.5,8.17,1,0.73,New York University
+327,113,4.5,5,9.14,0,0.83,University Of Southern California
+308,108,4.5,5,8.34,0,0.77,Northeastern University
+306,105,2.5,3,8.22,1,0.72,Tufts University
+299,96,1.5,2,7.86,0,0.54,Iowa State University
+294,95,1.5,1.5,7.64,0,0.49,North Carolina State University
+312,99,1,1.5,8.01,1,0.52,American University
+315,100,2,2.5,7.95,0,0.58,North Carolina State University
+322,110,3.5,3,8.96,1,0.78,University Of Californa Los Angeles
+329,113,5,4.5,9.45,1,0.89,Princeton University
+320,101,2.5,3,8.62,0,0.7,University Of Wisconsin-Madison
+308,103,3,3.5,8.49,0,0.66,Purdue University - West Lafayette
+304,102,3,4,8.73,0,0.67,Northwestern University
+311,102,4.5,4,8.64,1,0.68,University Of Colorado - Boulder
+317,110,4,4.5,9.11,1,0.8,University Of Notre Dame
+312,106,4,3.5,8.79,1,0.81,Clemson University
+321,111,2.5,3,8.9,1,0.8,University Of Cincinnati
+340,112,5,4.5,9.66,1,0.94,University Of South Carolina
+331,116,4,4,9.26,1,0.93,University Of South Florida
+336,118,4.5,4,9.19,1,0.92,University Of Minnesota
+324,114,5,4.5,9.08,1,0.89,Emory University
+314,104,5,5,9.02,0,0.82,University Of Washington
+313,109,4,3.5,9,0,0.79,George Washington University
+307,105,2.5,3,7.65,0,0.58,University Of Toronto
+300,102,1.5,2,7.87,0,0.56,Arizona State University
+302,99,1,2,7.97,0,0.56,University Of Pennsylvania
+312,98,3.5,3,8.18,1,0.64,University Of Houston
+316,101,2.5,2,8.32,1,0.61,University Of California - San Diego
+317,100,3,2.5,8.57,0,0.68,University Of Chicago
+310,107,3.5,3.5,8.67,0,0.76,Colorado State University
+320,120,4,4.5,9.11,0,0.86,Harvard University
+330,114,4.5,4.5,9.24,1,0.9,University Of Arizona
+305,112,3,3.5,8.65,0,0.71,University Of Kansas
+309,106,2.5,2.5,8,0,0.62,University Of Florida
+319,108,2.5,3,8.76,0,0.66,Rice University
+322,105,3,3,8.45,1,0.65,Indiana University Bloomington
+323,107,3.5,3.5,8.55,1,0.73,Vanderbilt University
+313,106,2.5,2,8.43,0,0.62,University Of Kentucky
+321,109,3.5,3.5,8.8,1,0.74,University Of California - Davis
+323,110,4,3.5,9.1,1,0.79,University Of Illinois At Urbana-Champaign
+325,112,4,4,9,1,0.8,University Of Colorado Boulder
+312,108,3.5,3,8.53,0,0.69,Rutgers University
+308,110,3.5,3,8.6,0,0.7,Michigan State University
+320,104,3,3.5,8.74,1,0.76,University Of Utah
+328,108,4.5,4,9.18,1,0.84,University Of Georgia
+311,107,4.5,4.5,9,1,0.78,Temple University
+301,100,3.5,3,8.04,0,0.67,University Of Wisconsin - Madison
+305,105,3,4,8.13,0,0.66,Duke University
+308,104,2.5,3,8.07,0,0.65,Cornell University
+298,101,1.5,2,7.86,0,0.54,The University Of Chicago
+300,99,1,2.5,8.01,0,0.58,University Of California - Berkeley
+324,111,2.5,2,8.8,1,0.79,Brown University
+327,113,3.5,3,8.69,1,0.8,University Of Connecticut
+317,106,4,3.5,8.5,1,0.75,Syracuse University
+323,104,4,4,8.44,1,0.73,University Of Oxford
+314,107,2.5,4,8.27,0,0.72,Georgetown University
+305,102,2,2.5,8.18,0,0.62,Johns Hopkins University
+315,104,3,2.5,8.33,0,0.67,Purdue University
+326,116,3.5,4,9.14,1,0.81,University Of Rochester
+299,100,2,2,8.02,0,0.63,University Of California - San Diego
+295,101,2.5,2,7.86,0,0.69,University Of Iowa
+324,112,4,3.5,8.77,1,0.8,University Of Delaware
+297,96,2.5,1.5,7.89,0,0.43,North Carolina State University
+327,113,3.5,3,8.66,1,0.8,University Of Maryland College Park
+311,105,3,2,8.12,1,0.73,Stony Brook University
+308,106,3.5,2.5,8.21,1,0.75,Georgia State University
+319,108,3,3.5,8.54,1,0.71,University Of Pittsburgh
+312,107,4.5,4,8.65,1,0.73,Washington University in St. Louis
+325,111,4,4.5,9.11,1,0.83,University Of Oregon
+319,110,3,2.5,8.79,0,0.72,University Of Michigan - Ann Arbor
+332,118,5,5,9.47,1,0.94,George Mason University
+323,108,4,4,8.74,1,0.81,Carnegie Mellon University
+324,107,3.5,4,8.66,1,0.81,UC Berkeley
+312,107,3,3,8.46,1,0.75,University Of Maryland
+326,110,3.5,3.5,8.76,1,0.79,UC Davis
+308,106,3,3,8.24,0,0.58,University Of California Los Angeles
+305,103,2.5,3.5,8.13,0,0.59,Pennsylvania State University
+295,96,1.5,2,7.34,0,0.47,Pennsylvania State University
+316,98,1.5,2,7.43,0,0.49,UT Austin
+304,97,1.5,2,7.64,0,0.47,Yale University
+299,94,1,1,7.34,0,0.42,University Of California Los Angeles
+302,99,2,2,7.25,0,0.57,University Of Southern California
+313,101,2.5,3,8.04,0,0.62,University Of Florida (Gainesville)
+318,107,3,3.5,8.27,1,0.74,UC Irvine
+325,110,3.5,4,8.67,1,0.73,UNC Chapel Hill
+303,100,3,3.5,8.06,1,0.64,Wayne State University
+300,102,3.5,2.5,8.17,0,0.63,UIUC
+297,98,2.5,3,7.67,0,0.59,Ohio State University
+317,106,2,3.5,8.12,0,0.73,Virginia Polytechnic And State University (Virginia Tech)
+327,109,3.5,4,8.77,1,0.79,New York University
+301,104,3.5,3.5,7.89,1,0.68,University Of Southern California
+314,105,2.5,2,7.64,0,0.7,Arizona State University
+321,107,2,1.5,8.44,0,0.81,University Of Central Florida
+322,110,4,5,8.64,1,0.85,University Of Southern California
+334,116,4,3.5,9.54,1,0.93,(SUNY) University At Buffalo
+338,115,4.5,5,9.23,1,0.91,Carnegie  Mellon University
+306,103,2.5,3,8.36,0,0.69,University Of California - San Diego
+313,102,3.5,4,8.9,1,0.77,University Of Texas At Austin
+330,114,4.5,3,9.17,1,0.86,Florida State University
+320,104,3.5,4.5,8.34,1,0.74,University Of Maryland - College Park
+311,98,1,2.5,7.46,0,0.57,University Of Minnesota - Twin Cities
+298,92,2,2,7.88,0,0.51,Boston University
+301,98,2,3,8.03,1,0.67,Ohio State University
+310,103,2.5,2.5,8.24,0,0.72,University Of Wisconsin - Madison
+324,110,3.5,3,9.22,1,0.89,University Of Washington - Seattle
+336,119,4.5,4,9.62,1,0.95,University Of Maryland - College Park
+321,109,3,3,8.54,1,0.79,University Of Pennsylvania
+315,105,2,2.5,7.65,0,0.39,University Of Washington Seattle
+304,101,2,2.5,7.66,0,0.38,Columbia  University
+297,96,2.5,2,7.43,0,0.34,The University Of Wisconsin - Madison
+290,100,1.5,2,7.56,0,0.47,UCSD
+303,98,2,2.5,7.65,0,0.56,University Of Maryland - College Park
+311,99,2.5,3,8.43,1,0.71,University Of California - San Diego
+322,104,3.5,4,8.84,1,0.78,University Of California - Berkeley
+319,105,3,3.5,8.67,1,0.73,Ohio State University
+324,110,4.5,4,9.15,1,0.82,Texas A&M University
+300,100,3,3.5,8.26,0,0.62,University Of California - Irvine
+340,113,5,5,9.74,1,0.96,Boston University
+335,117,5,5,9.82,1,0.96,Oregon State University
+302,101,2.5,3.5,7.96,0,0.46,Stanford University
+307,105,2,3.5,8.1,0,0.53,McGill University
+296,97,1.5,2,7.8,0,0.49,University Of Texas At Austin
+320,108,3.5,4,8.44,1,0.76,Columbia University
+314,102,2,2.5,8.24,0,0.64,University Of Michigan
+318,106,2,3,8.65,0,0.71,University Of Virginia
+326,112,4,3.5,9.12,1,0.84,Carnegie Mellon University
+317,104,3,3,8.76,0,0.77,University Of Texas At Dallas
+329,111,4.5,4,9.23,1,0.89,New York University
+324,110,3.5,3.5,9.04,1,0.82,University Of Southern California
+325,107,3,3.5,9.11,1,0.84,Northeastern University
+330,116,5,4.5,9.45,1,0.91,Tufts University
+312,103,3.5,4,8.78,0,0.67,Iowa State University
+333,117,5,4,9.66,1,0.95,North Carolina State University
+304,100,3.5,3,8.22,0,0.63,American University
+315,105,3,3,8.34,0,0.66,North Carolina State University
+324,109,3.5,3,8.94,1,0.78,University Of Californa Los Angeles
+330,116,4,3.5,9.23,1,0.91,Princeton University
+311,101,2,2.5,7.64,1,0.62,University Of Wisconsin-Madison
+302,99,2.5,3,7.45,0,0.52,Purdue University - West Lafayette
+322,103,3,2.5,8.02,1,0.61,Northwestern University
+298,100,2.5,4,7.95,1,0.58,University Of Colorado - Boulder
+297,101,2,4,7.67,1,0.57,University Of Notre Dame
+300,98,2,2.5,8.02,0,0.61,Clemson University
+301,96,3,4,7.56,0,0.54,University Of Cincinnati
+313,94,2.5,1.5,8.13,0,0.56,University Of South Carolina
+314,102,2.5,2,7.88,1,0.59,University Of South Florida
+317,101,3,2,7.94,1,0.49,University Of Minnesota
+321,110,3.5,4,8.35,1,0.72,Emory University
+327,106,4,4.5,8.75,1,0.76,University Of Washington
+315,104,4,2.5,8.1,0,0.65,George Washington University
+316,103,3.5,2,7.68,0,0.52,University Of Toronto
+309,111,2.5,4,8.03,0,0.6,Arizona State University
+308,102,2,3.5,7.98,1,0.58,University Of Pennsylvania
+299,100,2,3,7.42,0,0.42,University Of Houston
+321,112,3,4.5,8.95,1,0.77,University Of California - San Diego
+322,112,3.5,2.5,9.02,1,0.73,University Of Chicago
+334,119,4.5,5,9.54,1,0.94,Colorado State University
+325,114,4,5,9.46,1,0.91,Harvard University
+323,111,4,5,9.86,1,0.92,University Of Arizona
+312,106,3,5,8.57,0,0.71,University Of Kansas
+310,101,3.5,5,8.65,1,0.71,University Of Florida
+316,103,2,4.5,8.74,0,0.69,Rice University
+340,115,5,4.5,9.06,1,0.95,Indiana University Bloomington
+311,104,4,3.5,8.13,1,0.74,Vanderbilt University
+320,112,3.5,3.5,8.78,1,0.73,University Of Kentucky
+324,112,4.5,4,9.22,1,0.86,University Of California - Davis
+316,111,4,5,8.54,0,0.71,University Of Illinois At Urbana-Champaign
+306,103,3.5,3,8.21,0,0.64,University Of Colorado Boulder
+309,105,2.5,4,7.68,0,0.55,Rutgers University
+310,110,1.5,4,7.23,1,0.58,Michigan State University
+317,106,1.5,3.5,7.65,1,0.61,University Of Utah
+318,110,2.5,3.5,8.54,1,0.67,University Of Georgia
+312,105,1.5,3,8.46,0,0.66,Temple University
+305,104,2.5,1.5,7.79,0,0.53,University Of Wisconsin - Madison
+332,112,1.5,3,8.66,1,0.79,Duke University
+331,116,4.5,4.5,9.44,1,0.92,Cornell University
+321,114,4.5,4.5,9.16,1,0.87,The University Of Chicago
+324,113,4,5,9.25,1,0.92,University Of California - Berkeley
+328,116,4.5,5,9.08,1,0.91,Brown University
+327,118,5,5,9.67,1,0.93,University Of Connecticut
+320,108,3.5,5,8.97,1,0.84,Syracuse University
+312,109,2.5,4,9.02,0,0.8,University Of Oxford
+315,101,3.5,4.5,9.13,0,0.79,Georgetown University
+320,112,3,4.5,8.86,1,0.82,Johns Hopkins University
+324,113,4.5,4.5,9.25,1,0.89,Purdue University
+328,116,5,3.5,9.6,1,0.93,University Of Rochester
+319,103,2.5,4,8.76,1,0.73,University Of California - San Diego
+310,105,3,3.5,8.01,0,0.71,University Of Iowa
+305,102,1.5,2.5,7.64,0,0.59,University Of Delaware
+299,100,2,2,7.88,0,0.51,North Carolina State University
+295,99,2,1.5,7.57,0,0.37,University Of Maryland College Park
+312,100,3,3,8.53,1,0.69,Stony Brook University
+329,113,4,3.5,9.36,1,0.89,Georgia State University
+319,105,4,4.5,8.66,1,0.77,University Of Pittsburgh
+301,102,2.5,2,8.13,1,0.68,Washington University in St. Louis
+307,105,3,3,7.94,0,0.62,University Of Oregon
+304,107,3.5,3,7.86,0,0.57,University Of Michigan - Ann Arbor
+298,97,2,3,7.21,0,0.45,George Mason University
+305,96,3,4.5,8.26,0,0.54,Carnegie Mellon University
+314,99,3.5,4.5,8.73,1,0.71,UC Berkeley
+318,101,3.5,5,8.78,1,0.78,University Of Maryland
+323,110,4,5,8.88,1,0.81,UC Davis
+326,114,4,3.5,9.16,1,0.86,University Of California Los Angeles
+320,110,4,4,9.27,1,0.87,Pennsylvania State University
+311,103,2,4,8.09,0,0.64,Pennsylvania State University
+327,116,4,4.5,9.48,1,0.9,UT Austin
+316,102,4,3.5,8.15,0,0.67,Yale University
+308,105,3,2.5,7.95,1,0.67,University Of California Los Angeles
+300,101,3.5,2.5,7.88,0,0.59,University Of Southern California
+304,104,2.5,2,8.12,0,0.62,University Of Florida (Gainesville)
+309,105,3.5,2,8.18,0,0.65,UC Irvine
+318,103,4,4.5,8.49,1,0.71,UNC Chapel Hill
+325,110,4.5,4,8.96,1,0.79,Wayne State University
+321,102,3.5,4,9.01,1,0.8,UIUC
+323,107,3,2.5,8.48,1,0.78,Ohio State University
+328,113,4,2.5,8.77,1,0.83,Virginia Polytechnic And State University (Virginia Tech)
+304,103,5,3,7.92,0,0.71,New York University
+317,106,3.5,3,7.89,1,0.73,University Of Southern California
+311,101,2.5,3.5,8.34,1,0.7,Arizona State University
+319,102,2.5,2.5,8.37,0,0.68,University Of Central Florida
+327,115,3.5,4,9.14,0,0.79,University Of Southern California
+322,112,3,4,8.62,1,0.76,(SUNY) University At Buffalo
+302,110,4,4.5,8.5,0,0.65,Carnegie  Mellon University
+307,105,2.5,4.5,8.12,1,0.67,University Of California - San Diego
+297,99,3,3.5,7.81,0,0.54,University Of Texas At Austin
+298,101,2.5,4.5,7.69,1,0.53,Florida State University
+300,95,3,1.5,8.22,1,0.62,University Of Maryland - College Park
+301,99,2.5,2,8.45,1,0.68,University Of Minnesota - Twin Cities
+332,108,4.5,4,9.02,1,0.87,Boston University
+337,117,5,5,9.87,1,0.96,Ohio State University
+330,120,4.5,5,9.56,1,0.93,University Of Wisconsin - Madison
+312,103,4,5,8.43,0,0.73,University Of Washington - Seattle
+327,113,4.5,4.5,9.04,0,0.84,University Of Maryland - College Park
+337,118,4.5,4.5,9.65,1,0.92,University Of Pennsylvania
+324,107,4,4.5,8.87,1,0.76,University Of Washington Seattle
+316,104,3,3.5,8,1,0.72,Columbia  University
+322,110,3.5,2.5,8.67,1,0.8,The University Of Wisconsin - Madison
+314,103,2,3,8.21,0,0.65,UCSD
+330,115,4.5,3,9.34,1,0.9,University Of Maryland - College Park
+321,109,3,4,8.2,1,0.75,University Of California - San Diego
+308,101,3,4,7.9,0,0.68,University Of California - Berkeley
+302,102,2,1.5,8,0,0.5,Ohio State University
+323,108,3.5,3,8.6,0,0.45,Texas A&M University
+325,106,3.5,4,8.4,1,0.52,University Of California - Irvine
+327,111,4,4.5,9,1,0.84,Boston University
+328,112,4,4.5,9.1,1,0.78,Oregon State University
+307,109,4,3,8,1,0.62,Stanford University
+311,104,3.5,2,8.2,1,0.61,McGill University
+314,105,3.5,2.5,8.3,0,0.54,University Of Texas At Austin
+317,107,4,3,8.7,0,0.66,Columbia University
+319,106,4,3,8,1,0.65,University Of Michigan
+318,110,4,3,8.8,0,0.63,University Of Virginia
+303,102,3.5,3,8.5,0,0.62,Carnegie Mellon University
+312,107,3,2,7.9,1,0.64,University Of Texas At Dallas
+325,114,3,2,8.4,0,0.7,New York University
+328,116,5,5,9.5,1,0.94,University Of Southern California
+334,119,5,4.5,9.7,1,0.95,Northeastern University
+336,119,4,3.5,9.8,1,0.97,Tufts University
+340,120,4.5,4.5,9.6,1,0.94,Iowa State University
+322,109,4.5,3.5,8.8,0,0.76,North Carolina State University
+298,98,1.5,2.5,7.5,1,0.44,American University
+295,93,2,2,7.2,0,0.46,North Carolina State University
+310,99,1.5,2,7.3,0,0.54,University Of Californa Los Angeles
+300,97,3,3,8.1,1,0.65,Princeton University
+327,103,4,4,8.3,1,0.74,University Of Wisconsin-Madison
+338,118,3,4.5,9.4,1,0.91,Purdue University - West Lafayette
+340,114,4,4,9.6,1,0.9,Northwestern University
+331,112,4,5,9.8,1,0.94,University Of Colorado - Boulder
+320,110,5,5,9.2,1,0.88,University Of Notre Dame
+299,106,4,4,8.4,0,0.64,Clemson University
+300,105,1,2,7.8,0,0.58,University Of Cincinnati
+304,105,3,1.5,7.5,0,0.52,University Of South Carolina
+307,108,4,3.5,7.7,0,0.48,University Of South Florida
+308,110,3.5,3,8,1,0.46,University Of Minnesota
+316,105,2.5,2.5,8.2,1,0.49,Emory University
+313,107,2.5,2,8.5,1,0.53,University Of Washington
+332,117,4.5,4,9.1,0,0.87,George Washington University
+326,113,4.5,4,9.4,1,0.91,University Of Toronto
+322,110,5,4,9.1,1,0.88,Arizona State University
+329,114,4,5,9.3,1,0.86,University Of Pennsylvania
+339,119,4.5,4,9.7,0,0.89,University Of Houston
+321,110,3.5,5,8.85,1,0.82,University Of California - San Diego
+327,111,3,4,8.4,1,0.78,University Of Chicago
+313,98,2.5,4.5,8.3,1,0.76,Colorado State University
+312,100,1.5,3.5,7.9,1,0.56,Harvard University
+334,116,4,3,8,1,0.78,University Of Arizona
+324,112,4,2.5,8.1,1,0.72,University Of Kansas
+322,110,3,3.5,8,0,0.7,University Of Florida
+320,103,3,3,7.7,0,0.64,Rice University
+316,102,2,3,7.4,0,0.64,Indiana University Bloomington
+298,99,4,2,7.6,0,0.46,Vanderbilt University
+300,99,3,2,6.8,1,0.36,University Of Kentucky
+311,104,2,2,8.3,0,0.42,University Of California - Davis
+309,100,3,3,8.1,0,0.48,University Of Illinois At Urbana-Champaign
+307,101,4,3,8.2,0,0.47,University Of Colorado Boulder
+304,105,3,3,8.2,1,0.54,Rutgers University
+315,107,4,3,8.5,1,0.56,Michigan State University
+325,111,3,3.5,8.7,0,0.52,University Of Utah
+325,112,3.5,3.5,8.92,0,0.55,University Of Georgia
+327,114,3,3,9.02,0,0.61,Temple University
+316,107,3.5,3.5,8.64,1,0.57,University Of Wisconsin - Madison
+318,109,3.5,4,9.22,1,0.68,Duke University
+328,115,4.5,4,9.16,1,0.78,Cornell University
+332,118,5,5,9.64,1,0.94,The University Of Chicago
+336,112,5,5,9.76,1,0.96,University Of California - Berkeley
+321,111,5,5,9.45,1,0.93,Brown University
+314,108,4.5,4,9.04,1,0.84,University Of Connecticut
+314,106,3,5,8.9,0,0.74,Syracuse University
+329,114,2,4,8.56,1,0.72,University Of Oxford
+327,112,3,3,8.72,1,0.74,Georgetown University
+301,99,3,2,8.22,0,0.64,Johns Hopkins University
+296,95,3,2,7.54,1,0.44,Purdue University
+294,93,1.5,2,7.36,0,0.46,University Of Rochester
+312,105,2,3,8.02,1,0.5,University Of California - San Diego
+340,120,5,5,9.5,1,0.96,University Of Iowa
+320,110,5,4.5,9.22,1,0.92,University Of Delaware
+322,115,4,4.5,9.36,1,0.92,North Carolina State University
+340,115,4.5,4.5,9.45,1,0.94,University Of Maryland College Park
+319,103,4.5,3.5,8.66,0,0.76,Stony Brook University
+315,106,4.5,3.5,8.42,0,0.72,Georgia State University
+317,107,3.5,3,8.28,0,0.66,University Of Pittsburgh
+314,108,4.5,3.5,8.14,0,0.64,Washington University in St. Louis
+316,109,4.5,3.5,8.76,1,0.74,University Of Oregon
+318,106,4,4,7.92,1,0.64,University Of Michigan - Ann Arbor
+299,97,5,3.5,7.66,0,0.38,George Mason University
+298,98,4,3,8.03,0,0.34,Carnegie Mellon University
+301,97,3,3,7.88,1,0.44,UC Berkeley
+303,99,2,2.5,7.66,0,0.36,University Of Maryland
+304,100,1.5,2.5,7.84,0,0.42,UC Davis
+306,100,3,3,8,0,0.48,University Of California Los Angeles
+331,120,4,4,8.96,1,0.86,Pennsylvania State University
+332,119,5,4.5,9.24,1,0.9,Pennsylvania State University
+323,113,4,4,8.88,1,0.79,UT Austin
+322,107,3.5,3.5,8.46,1,0.71,Yale University
+312,105,2.5,3,8.12,0,0.64,University Of California Los Angeles
+314,106,4,3.5,8.25,0,0.62,University Of Southern California
+317,104,4.5,4,8.47,0,0.57,University Of Florida (Gainesville)
+326,112,3.5,3,9.05,1,0.74,UC Irvine
+316,110,4,4.5,8.78,1,0.69,UNC Chapel Hill
+329,111,4.5,4.5,9.18,1,0.87,Wayne State University
+338,117,3.5,4.5,9.46,1,0.91,UIUC
+331,116,5,5,9.38,1,0.93,Ohio State University
+304,103,5,4,8.64,0,0.68,Virginia Polytechnic And State University (Virginia Tech)
+305,108,3,3,8.48,0,0.61,New York University
+321,109,4,4,8.68,1,0.69,University Of Southern California
+301,107,3.5,3.5,8.34,1,0.62,Arizona State University
+320,110,4,3.5,8.56,0,0.72,University Of Central Florida
+311,105,3.5,3,8.45,1,0.59,University Of Southern California
+310,106,4.5,4.5,9.04,1,0.66,(SUNY) University At Buffalo
+299,102,4,3.5,8.62,0,0.56,Carnegie  Mellon University
+290,104,2,2.5,7.46,0,0.45,University Of California - San Diego
+296,99,3,3.5,7.28,0,0.47,University Of Texas At Austin
+327,104,3,3.5,8.84,1,0.71,Florida State University
+335,117,5,5,9.56,1,0.94,University Of Maryland - College Park
+334,119,4.5,4.5,9.48,1,0.94,University Of Minnesota - Twin Cities
+310,106,1.5,2.5,8.36,0,0.57,Boston University
+308,108,3.5,3.5,8.22,0,0.61,Ohio State University
+301,106,2.5,3,8.47,0,0.57,University Of Wisconsin - Madison
+300,100,2,3,8.66,1,0.64,University Of Washington - Seattle
+323,113,4,3,9.32,1,0.85,University Of Maryland - College Park
+319,112,2.5,2,8.71,1,0.78,University Of Pennsylvania
+326,112,3.5,3,9.1,1,0.84,University Of Washington Seattle
+333,118,5,5,9.35,1,0.92,Columbia  University
+339,114,4,4.5,9.76,1,0.96,The University Of Wisconsin - Madison
+303,105,5,4.5,8.65,0,0.77,UCSD
+309,105,3.5,3.5,8.56,0,0.71,University Of Maryland - College Park
+323,112,4,4.5,8.78,0,0.79,University Of California - San Diego
+333,113,4,4,9.28,1,0.89,University Of California - Berkeley
+314,109,3.5,4,8.77,1,0.82,Ohio State University
+312,103,5,4,8.45,0,0.76,Texas A&M University
+316,100,1.5,3,8.16,1,0.71,University Of California - Irvine
+326,116,4.5,3,9.08,1,0.8,Boston University
+318,109,3.5,3.5,9.12,0,0.78,Oregon State University
+329,110,4,3,9.15,1,0.84,Stanford University
+332,118,4.5,3.5,9.36,1,0.9,McGill University
+331,115,4,3.5,9.44,1,0.92,University Of Texas At Austin
+340,120,4.5,4,9.92,1,0.97,Columbia University
+325,112,3,3.5,8.96,1,0.8,University Of Michigan
+320,113,2,2.5,8.64,1,0.81,University Of Virginia
+315,105,2,2.5,8.48,0,0.75,Carnegie Mellon University
+326,114,3,3,9.11,1,0.83,University Of Texas At Dallas
+339,116,4,3.5,9.8,1,0.96,New York University
+311,106,3.5,3,8.26,1,0.79,University Of Southern California
+334,114,4,4,9.43,1,0.93,Northeastern University
+332,116,5,5,9.28,1,0.94,Tufts University
+321,112,5,5,9.06,1,0.86,Iowa State University
+324,105,3,4,8.75,0,0.79,North Carolina State University
+326,108,3,3.5,8.89,0,0.8,American University
+312,109,3,3,8.69,0,0.77,North Carolina State University
+315,105,2,2.5,8.34,0,0.7,University Of Californa Los Angeles
+309,104,2,2.5,8.26,0,0.65,Princeton University
+306,106,2,2.5,8.14,0,0.61,University Of Wisconsin-Madison
+297,100,1.5,2,7.9,0,0.52,Purdue University - West Lafayette
+315,103,1.5,2,7.86,0,0.57,Northwestern University
+298,99,1.5,3,7.46,0,0.53,University Of Colorado - Boulder
+318,109,3,3,8.5,0,0.67,University Of Notre Dame
+317,105,3.5,3,8.56,0,0.68,Clemson University
+329,111,4.5,4,9.01,1,0.81,University Of Cincinnati
+322,110,4.5,4,8.97,0,0.78,University Of South Carolina
+302,102,3.5,5,8.33,0,0.65,University Of South Florida
+313,102,2,3,8.27,0,0.64,University Of Minnesota
+293,97,2,4,7.8,1,0.64,Emory University
+311,99,2.5,3,7.98,0,0.65,University Of Washington
+312,101,2.5,3.5,8.04,1,0.68,George Washington University
+334,117,4,4.5,9.07,1,0.89,University Of Toronto
+322,110,4,5,9.13,1,0.86,Arizona State University
+323,113,4,4.5,9.23,1,0.89,University Of Pennsylvania
+321,111,4,4,8.97,1,0.87,University Of Houston
+320,111,4.5,3.5,8.87,1,0.85,University Of California - San Diego
+329,119,4.5,4.5,9.16,1,0.9,University Of Chicago
+319,110,3.5,3.5,9.04,0,0.82,Colorado State University
+309,108,2.5,3,8.12,0,0.72,Harvard University
+307,102,3,3,8.27,0,0.73,University Of Arizona
+300,104,3.5,3,8.16,0,0.71,University Of Kansas
+305,107,2.5,2.5,8.42,0,0.71,University Of Florida
+299,100,3,3.5,7.88,0,0.68,Rice University
+314,110,4,4,8.8,0,0.75,Indiana University Bloomington
+316,106,2.5,4,8.32,0,0.72,Vanderbilt University
+327,113,4.5,4.5,9.11,1,0.89,University Of Kentucky
+317,107,3.5,3,8.68,1,0.84,University Of California - Davis
+335,118,4.5,3.5,9.44,1,0.93,University Of Illinois At Urbana-Champaign
+331,115,4.5,3.5,9.36,1,0.93,University Of Colorado Boulder
+324,112,5,5,9.08,1,0.88,Rutgers University
+324,111,4.5,4,9.16,1,0.9,Michigan State University
+323,110,4,5,8.98,1,0.87,University Of Utah
+322,114,4.5,4,8.94,1,0.86,University Of Georgia
+336,118,4.5,5,9.53,1,0.94,Temple University
+316,109,3.5,3,8.76,0,0.77,University Of Wisconsin - Madison
+307,107,3,3.5,8.52,1,0.78,Duke University
+306,105,3,2.5,8.26,0,0.73,Cornell University
+310,106,3.5,2.5,8.33,0,0.73,The University Of Chicago
+311,104,4.5,4.5,8.43,0,0.7,University Of California - Berkeley
+313,107,4,4.5,8.69,0,0.72,Brown University
+317,103,2.5,3,8.54,1,0.73,University Of Connecticut
+315,110,3.5,3,8.46,1,0.72,Syracuse University
+340,120,4.5,4.5,9.91,1,0.97,University Of Oxford
+334,120,4,5,9.87,1,0.97,Georgetown University
+298,105,3.5,4,8.54,0,0.69,Johns Hopkins University
+295,99,2.5,3,7.65,0,0.57,Purdue University
+315,99,3.5,3,7.89,0,0.63,University Of Rochester
+310,102,3.5,4,8.02,1,0.66,University Of California - San Diego
+305,106,3,3,8.16,0,0.64,University Of Iowa
+301,104,3.5,4,8.12,1,0.68,University Of Delaware
+325,108,4.5,4,9.06,1,0.79,North Carolina State University
+328,110,5,4,9.14,1,0.82,University Of Maryland College Park
+338,120,5,5,9.66,1,0.95,Stony Brook University
+333,119,5,4.5,9.78,1,0.96,Georgia State University
+331,117,4.5,5,9.42,1,0.94,University Of Pittsburgh
+330,116,5,4.5,9.36,1,0.93,Washington University in St. Louis
+322,112,4.5,4.5,9.26,1,0.91,University Of Oregon
+321,109,4,4,9.13,1,0.85,University Of Michigan - Ann Arbor
+324,110,3,3.5,8.97,1,0.84,George Mason University
+312,104,3.5,3.5,8.42,0,0.74,Carnegie Mellon University
+313,103,4,4,8.75,0,0.76,UC Berkeley
+316,110,3.5,4,8.56,0,0.75,University Of Maryland
+324,113,4.5,4,8.79,0,0.76,UC Davis
+308,109,3,4,8.45,0,0.71,University Of California Los Angeles
+305,105,3,2,8.23,0,0.67,Pennsylvania State University
+296,99,2.5,2.5,8.03,0,0.61,Pennsylvania State University
+306,110,3.5,4,8.45,0,0.63,UT Austin
+312,110,3.5,3,8.53,0,0.64,Yale University
+318,112,4,3.5,8.67,0,0.71,University Of California Los Angeles
+324,111,3,3,9.01,1,0.82,University Of Southern California
+313,104,4,4.5,8.65,0,0.73,University Of Florida (Gainesville)
+319,106,3.5,2.5,8.33,1,0.74,UC Irvine
+312,107,2.5,3.5,8.27,0,0.69,UNC Chapel Hill
+304,100,2.5,3.5,8.07,0,0.64,Wayne State University
+330,113,5,4,9.31,1,0.91,UIUC
+326,111,4.5,4,9.23,1,0.88,Ohio State University
+325,112,4,4.5,9.17,1,0.85,Virginia Polytechnic And State University (Virginia Tech)
+329,114,4.5,5,9.19,1,0.86,New York University
+310,104,2,3.5,8.37,0,0.7,University Of Southern California
+299,100,1.5,2,7.89,0,0.59,Arizona State University
+296,101,2.5,3,7.68,0,0.6,University Of Central Florida
+317,103,2.5,2,8.15,0,0.65,University Of Southern California
+324,115,3.5,3,8.76,1,0.7,(SUNY) University At Buffalo
+325,114,3.5,3,9.04,1,0.76,Carnegie  Mellon University
+314,107,2.5,4,8.56,0,0.63,University Of California - San Diego
+328,110,4,2.5,9.02,1,0.81,University Of Texas At Austin
+316,105,3,3.5,8.73,0,0.72,Florida State University
+311,104,2.5,3.5,8.48,0,0.71,University Of Maryland - College Park
+324,110,3.5,4,8.87,1,0.8,University Of Minnesota - Twin Cities
+321,111,3.5,4,8.83,1,0.77,Boston University
+320,104,3,2.5,8.57,1,0.74,Ohio State University
+316,99,2.5,3,9,0,0.7,University Of Wisconsin - Madison
+318,100,2.5,3.5,8.54,1,0.71,University Of Washington - Seattle
+335,115,4.5,4.5,9.68,1,0.93,University Of Maryland - College Park
+321,114,4,5,9.12,0,0.85,University Of Pennsylvania
+307,110,4,4.5,8.37,0,0.79,University Of Washington Seattle
+309,99,4,4,8.56,0,0.76,Columbia  University
+324,100,4,5,8.64,1,0.78,The University Of Wisconsin - Madison
+326,102,5,5,8.76,1,0.77,UCSD
+331,119,5,4.5,9.34,1,0.9,University Of Maryland - College Park
+327,108,5,3.5,9.13,1,0.87,University Of California - San Diego
+312,104,3.5,4,8.09,0,0.71,University Of California - Berkeley
+308,103,2.5,4,8.36,1,0.7,Ohio State University
+324,111,2.5,1.5,8.79,1,0.7,Texas A&M University
+325,110,3,2.5,8.76,1,0.75,University Of California - Irvine
+313,102,2.5,2.5,8.68,0,0.71,Boston University
+312,105,2,2.5,8.45,0,0.72,Oregon State University
+314,107,3,3.5,8.17,1,0.73,Stanford University
+327,113,4.5,5,9.14,0,0.83,McGill University
+308,108,4.5,5,8.34,0,0.77,University Of Texas At Austin
+306,105,2.5,3,8.22,1,0.72,Columbia University
+299,96,1.5,2,7.86,0,0.54,University Of Michigan
+294,95,1.5,1.5,7.64,0,0.49,University Of Virginia
+312,99,1,1.5,8.01,1,0.52,Carnegie Mellon University
+315,100,2,2.5,7.95,0,0.58,University Of Texas At Dallas
+322,110,3.5,3,8.96,1,0.78,New York University
+329,113,5,4.5,9.45,1,0.89,University Of Southern California
+320,101,2.5,3,8.62,0,0.7,Northeastern University
+308,103,3,3.5,8.49,0,0.66,Tufts University
+304,102,3,4,8.73,0,0.67,Iowa State University
+311,102,4.5,4,8.64,1,0.68,North Carolina State University
+317,110,4,4.5,9.11,1,0.8,American University
+312,106,4,3.5,8.79,1,0.81,North Carolina State University
+321,111,2.5,3,8.9,1,0.8,University Of Californa Los Angeles
+340,112,5,4.5,9.66,1,0.94,Princeton University
+331,116,4,4,9.26,1,0.93,University Of Wisconsin-Madison
+336,118,4.5,4,9.19,1,0.92,Purdue University - West Lafayette
+324,114,5,4.5,9.08,1,0.89,Northwestern University
+314,104,5,5,9.02,0,0.82,University Of Colorado - Boulder
+313,109,4,3.5,9,0,0.79,University Of Notre Dame
+307,105,2.5,3,7.65,0,0.58,Clemson University
+300,102,1.5,2,7.87,0,0.56,University Of Cincinnati
+302,99,1,2,7.97,0,0.56,University Of South Carolina
+312,98,3.5,3,8.18,1,0.64,University Of South Florida
+316,101,2.5,2,8.32,1,0.61,University Of Minnesota
+317,100,3,2.5,8.57,0,0.68,Emory University
+310,107,3.5,3.5,8.67,0,0.76,University Of Washington
+320,120,4,4.5,9.11,0,0.86,George Washington University
+330,114,4.5,4.5,9.24,1,0.9,University Of Toronto
+305,112,3,3.5,8.65,0,0.71,Arizona State University
+309,106,2.5,2.5,8,0,0.62,University Of Pennsylvania
+319,108,2.5,3,8.76,0,0.66,University Of Houston
+322,105,3,3,8.45,1,0.65,University Of California - San Diego
+323,107,3.5,3.5,8.55,1,0.73,University Of Chicago
+313,106,2.5,2,8.43,0,0.62,Colorado State University
+321,109,3.5,3.5,8.8,1,0.74,Harvard University
+323,110,4,3.5,9.1,1,0.79,University Of Arizona
+325,112,4,4,9,1,0.8,University Of Kansas
+312,108,3.5,3,8.53,0,0.69,University Of Florida
+308,110,3.5,3,8.6,0,0.7,Rice University
+320,104,3,3.5,8.74,1,0.76,Indiana University Bloomington
+328,108,4.5,4,9.18,1,0.84,Vanderbilt University
+311,107,4.5,4.5,9,1,0.78,University Of Kentucky
+301,100,3.5,3,8.04,0,0.67,University Of California - Davis
+305,105,3,4,8.13,0,0.66,University Of Illinois At Urbana-Champaign
+308,104,2.5,3,8.07,0,0.65,University Of Colorado Boulder
+298,101,1.5,2,7.86,0,0.54,Rutgers University
+300,99,1,2.5,8.01,0,0.58,Michigan State University
+324,111,2.5,2,8.8,1,0.79,University Of Utah
+327,113,3.5,3,8.69,1,0.8,University Of Georgia
+317,106,4,3.5,8.5,1,0.75,Temple University
+323,104,4,4,8.44,1,0.73,University Of Wisconsin - Madison
+314,107,2.5,4,8.27,0,0.72,Duke University
+305,102,2,2.5,8.18,0,0.62,Cornell University
+315,104,3,2.5,8.33,0,0.67,The University Of Chicago
+326,116,3.5,4,9.14,1,0.81,University Of California - Berkeley
+299,100,2,2,8.02,0,0.63,Brown University
+295,101,2.5,2,7.86,0,0.69,University Of Connecticut
+324,112,4,3.5,8.77,1,0.8,Syracuse University
+297,96,2.5,1.5,7.89,0,0.43,University Of Oxford
+327,113,3.5,3,8.66,1,0.8,Georgetown University
+311,105,3,2,8.12,1,0.73,Johns Hopkins University
+308,106,3.5,2.5,8.21,1,0.75,Purdue University
+319,108,3,3.5,8.54,1,0.71,University Of Rochester
+312,107,4.5,4,8.65,1,0.73,University Of California - San Diego
+325,111,4,4.5,9.11,1,0.83,University Of Iowa
+319,110,3,2.5,8.79,0,0.72,University Of Delaware
+332,118,5,5,9.47,1,0.94,North Carolina State University
+323,108,4,4,8.74,1,0.81,University Of Maryland College Park
+324,107,3.5,4,8.66,1,0.81,Stony Brook University
+312,107,3,3,8.46,1,0.75,Georgia State University
+326,110,3.5,3.5,8.76,1,0.79,University Of Pittsburgh
+308,106,3,3,8.24,0,0.58,Washington University in St. Louis
+305,103,2.5,3.5,8.13,0,0.59,University Of Oregon
+295,96,1.5,2,7.34,0,0.47,University Of Michigan - Ann Arbor
+316,98,1.5,2,7.43,0,0.49,George Mason University
+304,97,1.5,2,7.64,0,0.47,Carnegie Mellon University
+299,94,1,1,7.34,0,0.42,UC Berkeley
+302,99,2,2,7.25,0,0.57,University Of Maryland
+313,101,2.5,3,8.04,0,0.62,UC Davis
+318,107,3,3.5,8.27,1,0.74,University Of California Los Angeles
+325,110,3.5,4,8.67,1,0.73,Pennsylvania State University
+303,100,3,3.5,8.06,1,0.64,Pennsylvania State University
+300,102,3.5,2.5,8.17,0,0.63,UT Austin
+297,98,2.5,3,7.67,0,0.59,Yale University
+317,106,2,3.5,8.12,0,0.73,University Of California Los Angeles
+327,109,3.5,4,8.77,1,0.79,University Of Southern California
+301,104,3.5,3.5,7.89,1,0.68,University Of Florida (Gainesville)
+314,105,2.5,2,7.64,0,0.7,UC Irvine
+321,107,2,1.5,8.44,0,0.81,UNC Chapel Hill
+322,110,4,5,8.64,1,0.85,Wayne State University
+334,116,4,3.5,9.54,1,0.93,UIUC
+338,115,4.5,5,9.23,1,0.91,Ohio State University
+306,103,2.5,3,8.36,0,0.69,Virginia Polytechnic And State University (Virginia Tech)
+313,102,3.5,4,8.9,1,0.77,New York University
+330,114,4.5,3,9.17,1,0.86,University Of Southern California
+320,104,3.5,4.5,8.34,1,0.74,Arizona State University
+311,98,1,2.5,7.46,0,0.57,University Of Central Florida
+298,92,2,2,7.88,0,0.51,University Of Southern California
+301,98,2,3,8.03,1,0.67,(SUNY) University At Buffalo
+310,103,2.5,2.5,8.24,0,0.72,Carnegie  Mellon University
+324,110,3.5,3,9.22,1,0.89,University Of California - San Diego
+336,119,4.5,4,9.62,1,0.95,University Of Texas At Austin
+321,109,3,3,8.54,1,0.79,Florida State University
+315,105,2,2.5,7.65,0,0.39,University Of Maryland - College Park
+304,101,2,2.5,7.66,0,0.38,University Of Minnesota - Twin Cities
+297,96,2.5,2,7.43,0,0.34,Boston University
+290,100,1.5,2,7.56,0,0.47,Ohio State University
+303,98,2,2.5,7.65,0,0.56,University Of Wisconsin - Madison
+311,99,2.5,3,8.43,1,0.71,University Of Washington - Seattle
+322,104,3.5,4,8.84,1,0.78,University Of Maryland - College Park
+319,105,3,3.5,8.67,1,0.73,University Of Pennsylvania
+324,110,4.5,4,9.15,1,0.82,University Of Washington Seattle
+300,100,3,3.5,8.26,0,0.62,Columbia  University
+340,113,5,5,9.74,1,0.96,The University Of Wisconsin - Madison
+335,117,5,5,9.82,1,0.96,UCSD
+302,101,2.5,3.5,7.96,0,0.46,University Of Maryland - College Park
+307,105,2,3.5,8.1,0,0.53,University Of California - San Diego
+296,97,1.5,2,7.8,0,0.49,University Of California - Berkeley
+320,108,3.5,4,8.44,1,0.76,Ohio State University
+314,102,2,2.5,8.24,0,0.64,Texas A&M University
+318,106,2,3,8.65,0,0.71,University Of California - Irvine
+326,112,4,3.5,9.12,1,0.84,Boston University
+317,104,3,3,8.76,0,0.77,Oregon State University
+329,111,4.5,4,9.23,1,0.89,Stanford University
+324,110,3.5,3.5,9.04,1,0.82,McGill University
+325,107,3,3.5,9.11,1,0.84,University Of Texas At Austin
+330,116,5,4.5,9.45,1,0.91,Columbia University
+312,103,3.5,4,8.78,0,0.67,University Of Michigan
+333,117,5,4,9.66,1,0.95,University Of Virginia
