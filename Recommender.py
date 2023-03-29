@@ -24,8 +24,9 @@ if st.button("Submit"):
     data = pd.read_csv('data_uni.csv')
     prediction = model.predict([[cgpa, gre, toefl]])
     filtered_data = data[(data['CGPA'] <= cgpa) & (data['GRE Score'] <= gre) & (data['TOEFL Score'] <= toefl)]
-    
-    # Convert to DataFrame
+    #print(f"Values less than {cgpa and gre and toefl}: \n{filtered_data}")
+    #st.write(filtered_data)
+
     dfs = pd.DataFrame(filtered_data, columns=['world_rank', 'institution', 'country', 'quality_of_education',
        'quality_of_faculty', 'influence', 'patents', 'GRE Score', 'TOEFL Score', 'CGPA'])
     
@@ -35,11 +36,9 @@ if st.button("Submit"):
     dfi = dfs.reset_index(drop=True)
     dfi.index = dfi.index + 1
     st.dataframe(dfi)
-    
-    # Convert to csv
+
     csv = dfi.to_csv().encode('utf-8')
-    
-    # Download
+
     st.download_button(
         label="Download data as CSV",
         data=csv,
