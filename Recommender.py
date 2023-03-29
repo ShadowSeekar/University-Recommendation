@@ -3,16 +3,13 @@ import pandas as pd
 import pickle
 
 st.set_page_config(page_title="University Recommendation System")
-
-st.markdown(" # University Recommendation System")
+st.markdown("# University Recommendation System")
 st.sidebar.markdown("# Recommendation System")
 
-st.markdown("This is a university recommendation system that recommends universities to students based on the grades required to qualify for each university.")
+# Load the saved model
+with open('random_forest_model.pkl', 'rb') as file:
+    loaded_model = pickle.load(file)
 
-# Load the model
-with open('model.pkl', 'rb') as f:
-    model = pickle.load(f)
-    
 
 # Define the form inputs
 cgpa = st.number_input("CGPA", min_value=0.0, max_value=10.0, step=0.1, format="%.2f")
@@ -22,17 +19,13 @@ toefl = st.number_input("TOEFL Score", min_value=0, max_value=120, step=1)
 # Make predictions
 if st.button("Submit"):
     data = pd.read_csv('data_uni.csv')
-    prediction = model.predict([[cgpa, gre, toefl]])
+    prediction = loaded_model.predict([[cgpa, gre, toefl]])
     filtered_data = data[(data['CGPA'] <= cgpa) & (data['GRE Score'] <= gre) & (data['TOEFL Score'] <= toefl)]
-    #print(f"Values less than {cgpa and gre and toefl}: \n{filtered_data}")
-    #st.write(filtered_data)
-
     dfs = pd.DataFrame(filtered_data, columns=['world_rank', 'institution', 'country', 'quality_of_education',
-       'quality_of_faculty', 'influence', 'patents', 'GRE Score', 'TOEFL Score', 'CGPA'])
-    
-    dfs.rename(columns= {'world_rank':'World Rank', 'institution':'Institution', 'country':'Country', 'quality_of_education':'Quality of Education',
-                         'quality_of_faculty':'Quality of Faculty', 'influence':'Influence', 'patents':'Patents'}, inplace=True)
-    
+                                               'quality_of_faculty', 'influence', 'patents', 'GRE Score', 'TOEFL Score', 'CGPA'])
+    dfs.rename(columns={'world_rank': 'World Rank', 'institution': 'Institution', 'country': 'Country',
+                         'quality_of_education': 'Quality of Education', 'quality_of_faculty': 'Quality of Faculty',
+                         'influence': 'Influence', 'patents': 'Patents'}, inplace=True)
     dfi = dfs.reset_index(drop=True)
     dfi.index = dfi.index + 1
     st.dataframe(dfi)
