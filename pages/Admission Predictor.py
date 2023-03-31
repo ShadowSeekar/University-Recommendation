@@ -11,10 +11,10 @@ with open('kNNr_model2.pkl', 'rb') as file:
 
 # Load the dataset used for training the model
 df_train = pd.read_csv('student_data.csv')
-df_train = df_train.drop(['SOP', 'LOR'], axis=1)
+df_train = df_train.drop(['SOP', 'LOR', 'Research'], axis=1)
 
 # Separate the features and target variable
-X_train = df_train[['GRE Score', 'TOEFL Score', 'CGPA', 'Research']]
+X_train = df_train[['GRE Score', 'TOEFL Score', 'CGPA']]
 y_train = df_train['Chance of Admit']
 
 # Fit a StandardScaler instance to the training data and use it to scale the user input
@@ -40,15 +40,15 @@ toefl_score = st.slider('TOEFL Score', 80, 120, 110)
 #sop = st.slider('SOP', 1.0, 5.0, 3.0)
 #lor = st.slider('LOR', 1.0, 5.0, 3.0)
 cgpa = st.slider('CGPA', 6.0, 10.0, 8.0)
-research = st.radio('Research', ['Yes', 'No'])
-if research == 'Yes':
-    research = 1
-else:
-    research = 0
+#research = st.radio('Research', ['Yes', 'No'])
+#if research == 'Yes':
+#    research = 1
+#else:
+#    research = 0
 
 
 # Get the top 5 institutions with predicted chances of admission that are lower than the user input
-user_input = [gre_score, toefl_score, cgpa, research]
+user_input = [gre_score, toefl_score, cgpa]
 top_institutions = get_top_institutions(user_input)
 
 if top_institutions.empty:
