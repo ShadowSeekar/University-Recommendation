@@ -25,8 +25,8 @@ scaler.fit(X_train)
 def get_top_institutions(user_input):
     user_input = np.array(user_input).reshape(1, -1)
     user_input = scaler.transform(user_input)
-    predicted_chance_of_admit = knn.predict(user_input)[0]
-    df_train['Predicted Chance of Admit'] = knn.predict(scaler.transform(X_train))
+    predicted_chance_of_admit = knn.predict(user_input)[0] *100
+    df_train['Predicted Chance of Admit'] = knn.predict(scaler.transform(X_train)) *100
     df_grouped = df_train.groupby('Institution').mean().sort_values(by='Predicted Chance of Admit', ascending=False)
     top_institutions = df_grouped[df_grouped['Predicted Chance of Admit'] < predicted_chance_of_admit].head(5)
     return top_institutions[['Predicted Chance of Admit']]
