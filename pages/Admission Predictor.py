@@ -6,14 +6,15 @@ from sklearn.neighbors import KNeighborsRegressor
 from sklearn.preprocessing import StandardScaler
 
 # Load the trained KNN model from disk
-with open('kNNr_model.pkl', 'rb') as file:
+with open('kNNr_model2.pkl', 'rb') as file:
     knn = pickle.load(file)
 
 # Load the dataset used for training the model
 df_train = pd.read_csv('student_data.csv')
+df_train = df_train.drop(['SOP', 'LOR'], axis=1)
 
 # Separate the features and target variable
-X_train = df_train[['GRE Score', 'TOEFL Score', 'SOP', 'LOR', 'CGPA', 'Research']]
+X_train = df_train[['GRE Score', 'TOEFL Score', 'CGPA', 'Research']]
 y_train = df_train['Chance of Admit']
 
 # Fit a StandardScaler instance to the training data and use it to scale the user input
