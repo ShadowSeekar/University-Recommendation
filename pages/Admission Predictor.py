@@ -48,7 +48,7 @@ else:
 
 
 # Get the top 5 institutions with predicted chances of admission that are lower than the user input
-user_input = [gre_score, toefl_score, sop, lor, cgpa, research]
+user_input = [gre_score, toefl_score, cgpa, research]
 top_institutions = get_top_institutions(user_input)
 
 if top_institutions.empty:
