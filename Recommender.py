@@ -6,17 +6,13 @@ st.set_page_config(page_title="University Recommendation System")
 st.markdown("# University Recommendation System")
 st.sidebar.markdown("# Recommendation System")
 
-# Load the saved model
 with open('random_forest_model.pkl', 'rb') as file:
     loaded_model = pickle.load(file)
 
-
-# Define the form inputs
 cgpa = st.number_input("CGPA", min_value=0.0, max_value=10.0, step=0.1, format="%.2f")
 gre = st.number_input("GRE Score", min_value=0, max_value=340, step=1)
 toefl = st.number_input("TOEFL Score", min_value=0, max_value=120, step=1)
 
-# Make predictions
 if st.button("Submit"):
     data = pd.read_csv('data_uni.csv')
     prediction = loaded_model.predict([[cgpa, gre, toefl]])
@@ -38,3 +34,4 @@ if st.button("Submit"):
         file_name='Universities.csv',
         mime='text/csv',
     )
+
