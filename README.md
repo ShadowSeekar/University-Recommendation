@@ -21,11 +21,11 @@ The model is trained on a dataset with features similar to:
 - Chance of Admit	Target variable
 
 # 🛠 Model Details
-Algorithm -	K-Nearest Neighbors Regressor
-Scaling	- StandardScaler
-Validation	- 10-Fold Cross-Validation
-Best Score	~92% (varies)
-Final R2 Score	~0.8 on training data
+- Algorithm -	K-Nearest Neighbors Regressor
+- Scaling	- StandardScaler
+- Validation	- 10-Fold Cross-Validation
+- Best Score	~92% (varies)
+- Final R2 Score	~0.8 on training data
 
 # 🚀 Usage
 A) Run Locally
